@@ -1,63 +1,72 @@
-# AR Shopping — Global Launch and Return Reduction
+# Positioning augmented reality as pre-purchase evidence
 
-I completed this work during my [Microsoft experience from January 2020 to August 2022](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
+I led the global go-to-market work for an augmented-reality shopping product during my Microsoft tenure. I saw that home-category customers could not judge whether an expensive item would fit or look right from flat product images. I worked with shoppers, merchants and 3D-asset partners, category and commerce teams, product design, computer-vision and mobile engineers, accessibility and privacy specialists, marketing, finance, logistics, and regional leaders.
 
-## The commercial problem
+## I refused to launch “innovation”
 
-Furniture shoppers were being asked to make high-value decisions from flat images. Returns reached 25–30% because customers could not reliably judge scale, clearance, lighting, or fit inside their own homes. I did not frame augmented reality as a novelty feature; I framed it as pre-purchase verification.
+Furniture returns in the retained record reached 25–30%. Interviews found customers using masking tape, color swatches and mental arithmetic to judge scale, clearance, lighting and room harmony.
 
-That choice changed the launch objective. The team was no longer trying to maximize AR opens. We were trying to improve purchase confidence, conversion, and return economics without making the underlying product page slower or harder to use.
+I positioned AR as verification before purchase: “View in Room” should answer a consequential question at the point of doubt. If it could not improve confidence about fit, clearance or appearance, visual novelty and time spent in the experience were irrelevant.
 
-## What I needed to prove
+That proposition aligned teams around four proofs:
 
-I organized the launch around four questions:
+1. spatial placement was accurate and stable enough for the named decision;
+2. the experience worked across eligible rooms, lighting, devices and users—or failed plainly;
+3. merchants could supply enough governed 3D assets for a useful category; and
+4. exposure changed purchase quality, not just curiosity.
 
-1. Could customers place an object accurately enough to trust the result?
-2. Did the experience work across different homes, devices, lighting conditions, and accessibility needs?
-3. Could merchants produce enough reliable 3D assets to make the feature useful at category scale?
-4. Did better visualization change commercial behavior rather than simply attract curiosity?
+## One sofa defined the trust contract
 
-Research on AR and consumer decision-making supported the underlying mechanism: putting a product into the customer’s physical context can reduce perceived risk and improve decision confidence. I used that mechanism as a hypothesis to test, not as proof of our own results.
+More than 50 interviews led to a 90-day, single-sofa prototype. The source says “millimeter accuracy” became a launch gate, but retains no measurement protocol or result. Consumer mobile AR across camera calibration, surfaces, lighting and motion cannot be assumed millimeter-accurate from that phrase. I treat it as an aspirational placement standard and would report measured scale and pose error by device and distance.
 
-## The three-city learning loop
+The quality gate needed physical dimensions and coordinate origin from the merchant; validated units and bounding box; plane detection and tracking confidence; occlusion behavior; relocalization after movement; asset scale, texture and polygon limits; device frame rate and crash rate; and a warning or manual-dimension fallback when the environment was unsuitable.
 
-I chose Tokyo, Berlin, and Chicago because the markets exposed different rooms, lighting conditions, devices, merchant capabilities, and customer expectations. The pilots were not a translation exercise. They forced the product to handle different occlusion behavior, spatial constraints, tracking quality, and presentation norms.
+An accessible product page with exact dimensions, diagrams and usable 2D content remained essential for customers who could not or did not want to use camera AR. AR enhanced evidence; it did not become the only route to it.
 
-I prioritized millimeter-level placement accuracy before photorealistic effects. Customers could forgive a modest texture; they could not trust a sofa that appeared to fit when it did not. Market teams and representative users tested the full journey, including failure recovery and accessible alternatives, rather than reviewing isolated renders.
+## Three cities tested three physical products
 
-## Solving the catalog and performance constraints
+Tokyo exposed compact rooms, tight corners and the importance of small-space specifications. Berlin exposed how room orientation and light changed fabric perception. Chicago exposed longer tracking distances in open plans.
 
-The product had a cold-start problem: no useful experience without 3D assets, and little merchant incentive to create assets before the experience had demand. I subsidized early asset creation, added quality requirements to partner contracts, and built a repeatable merchant pipeline instead of treating every model as a custom production.
+Local teams and representative customers tested placement, occlusion, lighting, device performance, error recovery, confidence and buying context—not simply translation. The platform stayed common while environment-specific behavior and content requirements became launch evidence.
 
-I also kept AR off the critical page-load path. The module was optional and lazy-loaded, governed by feature flags, crash monitoring, and a 200 ms performance budget. “View in Room” appeared beside the product imagery at the moment a customer was most likely to question fit.
+Research by Hilken and colleagues on [AR, perceived risk and customer decision comfort](https://pubmed.ncbi.nlm.nih.gov/36706429/) supported the mechanism: spatially embedding a product may improve decision processes by reducing uncertainty. I used that as an external hypothesis, not as proof of this product’s effect.
 
-## How I defined the rollout
+## The asset supply chain was part of go-to-market
 
-I linked spatial quality, page performance, customer use, conversion, returns, and asset coverage in one scorecard. A market could expand only when the experience met technical and customer-confidence gates. This prevented a strong global average from hiding a weak device, category, or region.
+No catalog coverage meant no customer utility, but merchants had little reason to fund models before seeing demand. I subsidized an early set and wrote partner acceptance criteria for:
 
-## The outcome
+- source photography or CAD rights and product-version match;
+- real-world dimensions and scale origin;
+- geometry, texture, color and material fidelity;
+- GLB/USDZ packaging and device performance;
+- category and regional metadata; and
+- correction, expiration and replacement ownership.
 
-| Outcome | Result |
-|---|---:|
-| Conversion among engaged users | +40% |
-| Sales on AR-enabled SKUs | +9% |
-| Returns | -25% |
-| Annual revenue contribution | More than $50M |
-| Annual reverse-logistics savings | More than $5M |
+The source reports 9% higher sales on AR-enabled SKUs. I used that evidence to recruit more merchants, while acknowledging selection: enabled products and early partners may have been unusually important, digitally mature or well promoted.
 
-The result validated the positioning: AR created value when it reduced uncertainty at a consequential decision point. The same feature would have been much less useful if it had been placed as a detached innovation experience.
+## Distribution could not tax every shopper
 
-## What I carried forward
+“View in Room” sat beside the product image where a customer questioned fit. The engine and asset lazy-loaded only after request. A feature flag, daily build, device-level crash monitoring and 200-millisecond time-to-interactive budget protected the core page. A low-end Android problem triggered a recorded 48-hour hotfix.
 
-I learned to globalize the platform while localizing physical behavior. I also learned that an immersive feature needs a content-supply strategy and a performance contract before it needs a launch campaign.
+The 200 milliseconds was a budget, not a retained achieved percentile. I would measure page performance for eligible and non-eligible users, AR startup, model load, frame stability, crash-free sessions and abandonment by device. A conversion feature that slowed every product page could destroy more value than it created.
 
-## Sources and external context
+## Commercial account with selection made explicit
 
-These sources informed the research, accessibility, and customer-confidence approach. The resume link establishes the work period.
+| Measure | Baseline | Recorded result | What the claim requires |
+|---|---:|---:|---|
+| Category returns | 25–30% | 25% lower | likely relative reduction, implying 18.75–22.5% if the same cohort; exact category, window and reason-coded returns absent |
+| Conversion among AR-engaged users | comparison group | 40% higher | strongly self-selected; incremental effect requires randomized invitation or credible instrument |
+| Sales on AR-enabled SKUs | pre/other SKU comparison | 9% higher | control for SKU selection, season, placement, promotion, inventory and category |
+| Time on page | baseline index 100 | index 150 | 50% higher; diagnostic engagement, not value on its own |
+| Annual revenue contribution | model baseline absent | >$50M | attribution and recognition method absent; present as annualized program estimate, not proven incremental revenue |
+| Reverse-logistics savings | baseline absent | >$5M/year | requires avoided returns × loaded handling, freight, damage and resale costs; model, not necessarily booked saving |
 
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [GOV.UK — How user research improves service design](https://www.gov.uk/service-manual/user-research/how-user-research-improves-service-design) | I used it to structure continuous research around observed user needs and complete journeys. | 2016 |
-| [W3C — Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) | I used it to keep accessibility requirements inside the interaction design and validation plan. | 2018 |
-| [Hilken et al. — How Augmented Reality Increases Engagement Through Its Impact on Risk and the Decision Process](https://pubmed.ncbi.nlm.nih.gov/36706429/) | I used the research to frame contextual visualization, perceived risk, comfort, and confidence as testable mechanisms. | 2022 |
+The engaged-user conversion, enabled-SKU sales and return result may all share the same underlying purchases. I do not add them into separate revenue pools. The strongest outcome is the combined purchase-quality hypothesis supported by several imperfect measures.
 
+## Provenance and ownership
+
+The retained page does not name the retailer, commerce platform or Microsoft product. This portfolio assigns the project to my Microsoft role, so I preserve the employment period but do not attach public Microsoft product reach or claim that Microsoft itself booked the $50 million.
+
+I owned the category position, customer research, market selection, launch gates, merchant value proposition, partner content system, point-of-doubt distribution, scorecard and financial story. Engineering owned spatial implementation. Merchants owned product truth and assets. Regional teams owned local evidence. Finance and logistics owned realized economics.
+
+The strategic marketing insight was that immersive technology became commercially credible only when the launch promise was a verifiable customer decision, supported by an asset supply chain and a performance contract—not a futuristic demo.
