@@ -1,65 +1,39 @@
-# Shivam Singh - AI Product Marketing
+# Shivam Singh — AI Product Marketing
 
-## Profile
+AI products do not reach a market because the model is impressive. They reach it when a customer can recognize the decision the product improves, trust the evidence behind the promise, and see a credible path from first use to economic value.
 
-Hi, I’m Shivam. I work at the point where a technically complex AI product has to become a clear, credible choice for a real customer. I’m especially interested in the moments when positioning, trust, adoption, and monetization have to work together—not as separate marketing exercises, but as one go-to-market system.
+That is the work represented here. Across conversational commerce, spatial shopping, recommendations, advertising, cloud migration, investment products, and retail pricing, I have treated positioning, launch readiness, adoption, compliance, and value realization as one system.
 
-You can reach me at [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/beastofbayarea).
+[Resume](./shivam-singh-ai-pmm.pdf) · [LinkedIn](https://www.linkedin.com/in/beastofbayarea) · [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu)
 
-## How I bring AI products to market
+## The through-line: proof before promotion
 
-I usually begin with a simple question: what has to be true for this customer to trust the product enough to change their behavior? From there, I work backward into segmentation, value proposition, evidence, launch readiness, field enablement, and lifecycle adoption.
+My product-marketing decisions begin before the campaign. I define the customer decision, determine which facts must remain authoritative, identify what could make the promise unsafe or unbelievable, and build the measurement needed to earn broader distribution. The message is the visible edge of that operating model.
 
-That approach matters even more in AI. A strong message cannot compensate for an unclear use case, weak evaluation, or unresolved policy risk. I want the product promise, the proof behind it, and the customer experience to reinforce one another.
+The seven projects form a progression from product meaning to market scale.
 
-## A tour through the projects
+### 1. Give the product a job customers can recognize
 
-I’ve arranged these projects by career experience, newest first. Each one is rebuilt independently around its market, buyer, proposition, proof, launch system and value account. The files distinguish public product context from personal attribution, estimates from realized value, selection from incrementality, post-tenure facts from outcomes, and source conflicts that still need primary evidence.
+In [Alexa Shopping: conversational decision support](./projects/alexa-shopping-conversational-decision-support.md), roughly 100,000 interactions exposed a 40% drop-off when shoppers left the assistant for conventional search. I repositioned the experience from open-ended conversation to a sourced, constraint-aware shortlist that preserved customer confirmation. A 15,000-shopper cohort then connected claim quality, journey continuation, confidence, and adoption to a further $5 million investment decision.
 
-### Amazon Web Services (AWS)
+[AR shopping: global launch and return reduction](./projects/ar-shopping-global-launch-return-reduction.md) applied the same discipline to a different source of doubt: whether a product would fit in the customer's physical space. The proposition shifted from novelty to pre-purchase evidence, joining three market pilots, a governed 3D-asset supply chain, page-performance limits, and return economics. The recorded evidence associated AR engagement with 25% lower returns and 9% higher enabled-SKU sales while preserving the selection limits around the 40% conversion comparison.
 
-**Principal AI Product Marketing and Global GTM** | July 2024 - Present
+### 2. Let market truth overrule the calendar
 
-#### [Alexa Shopping: conversational decision support](./projects/alexa-shopping-conversational-decision-support.md)
+For the [Japan recommendation-engine launch](./projects/japan-recommendation-engine-localized-llm-launch.md), I recommended a six-week delay rather than market a translated interface as a Japan-ready product. Respectful language, tokenization, local relevance, latency, evidence, and data handling became release conditions. The work demonstrates a central belief: a launch date is reversible; a breach of customer trust is not.
 
-I repositioned a curiosity-driven shopping assistant around a defensible shortlist, live commerce evidence, explicit trade-offs and customer confirmation. The file discloses that public Rufus launched before my AWS tenure and that the retained Alexa title and cross-Amazon assignment do not establish personal Rufus ownership.
+In [generative-AI advertising](./projects/generative-ai-ads-compliance-by-construction.md), trust moved inside the creation experience. More than 500 pages of policy became contextual rules, visible coaching, constrained drafting, joint copy/image inspection, and human escalation. Rejection fell from 18% to 1.8%, creation moved from five-to-seven days to under an hour, and shadow evaluation recorded 96% precision and 91% recall. Compliance was not a review queue after the product; it was part of the value proposition.
 
-### Rakuten Group, Inc.
+### 3. Build the evidence supply chain buyers need
 
-**Product Marketing Manager, Merchant AI Adoption and Monetization** | June 2023 - December 2023
+[Manufacturing cloud migration](./projects/manufacturing-cloud-migration-technical-gtm-launch.md) began with a twelve-to-fourteen-week content process that could not keep pace with a four-week launch. I changed the unit of production from an asset to a buyer decision, brought architects and writers into live working sessions, and governed reuse. The team delivered 20+ decision products in four weeks with zero late technical-rework cycles, moved technical-lead trial conversion from 5% to 15%, shortened the influenced sales cycle from twelve to nine weeks, and avoided $120,000 of planned agency spend.
 
-#### [Japan recommendation engine: localized LLM launch](./projects/japan-recommendation-engine-localized-llm-launch.md)
+The [quant-fund marketing rebuild](./projects/quant-fund-marketing-compliance-rebuild.md) shows the same operating principle under regulatory pressure. After roughly a quarter of more than 1,000 reviewed assets required intervention, I rebuilt the system around claims that carried their proof. Ninety percent of 50 paused conversations resumed, $50 million of pipeline reopened, $12 million of new AUM was attributed to the recovery, and review time fell 40%—with pipeline, AUM, and fee revenue kept analytically separate.
 
-I converted a Japan model rollout into a launch-readiness decision across respectful language, tokenization, market relevance, latency, local evidence and data handling. The retained page explicitly says the same story can be relabelled Amazon or Rakuten without changing metrics, so the walkthrough preserves the Rakuten assignment while clearly identifying it as a composite that needs a primary launch record.
+### 4. Commercialize the decision, not the algorithm
 
-### Microsoft Corporation
+In [retail pricing intelligence](./projects/retail-pricing-value-proposition-commercialization.md), I rejected a maximum-price promise in favor of portfolio decisions merchants could understand and challenge. SKU economic roles, top-500 item locks, a ±5% weekly cap, evidence cards, controlled testing, and governed overrides translated analytics into an adoptable commercial product. The local publication cycle fell from six weeks to under one, overrides dropped below 5% by month two, and a $50 million opportunity remained explicitly modeled rather than claimed as realized revenue.
 
-**Senior Product Marketing Manager, Enterprise Segmentation and Lifecycle Growth** | January 2020 - August 2022
+## What this portfolio says about my role
 
-#### [AR shopping: global launch and return reduction](./projects/ar-shopping-global-launch-return-reduction.md)
-
-I reframed augmented reality from an innovation demo into pre-purchase evidence for high-ticket home categories. The launch connected placement and failure quality, three physical-market pilots, a governed 3D-asset supply chain, page-performance protection and point-of-doubt distribution; commercial figures are reported with selection and attribution limits.
-
-#### [Manufacturing cloud migration: technical GTM launch](./projects/manufacturing-cloud-migration-technical-gtm-launch.md)
-
-I rebuilt the evidence supply chain for a four-week cloud-migration launch aimed at skeptical manufacturing buyers. Live architect-writer sessions, risk-weighted validation, governed reuse and phased field learning made documentation part of the buying experience; the source embeds an IBM Marketing résumé while this repo assigns Microsoft, so the company attribution remains unresolved.
-
-#### [Generative AI ads: compliance by construction](./projects/generative-ai-ads-compliance-by-construction.md)
-
-I moved advertising policy into AI-assisted copy and static-asset creation through contextual rules, visible coaching, constrained drafting, joint copy/image inspection and human escalation. The source explicitly assigns the project to Microsoft in 2020–2022; the walkthrough separates it from Microsoft’s public Copilot advertising launches after my tenure and excludes later image/video economics.
-
-### The D. E. Shaw Group
-
-**Vice President, Product Marketing and Value Realization** | July 2016 - December 2019
-
-#### [Quant fund marketing: compliance rebuild](./projects/quant-fund-marketing-compliance-rebuild.md)
-
-I turned an unsupported performance claim and a volume-first campaign into an evidence-led institutional marketing system. The account governs claims rather than documents, separates pipeline, conversations and AUM, and corrects the source’s anachronistic assertion that the SEC’s December 2020 Marketing Rule governed work completed by December 2019.
-
-### McKinsey & Company
-
-**Associate, Pricing, Positioning and Commercialization** | July 2014 - June 2016
-
-#### [Retail pricing: value proposition and commercialization](./projects/retail-pricing-value-proposition-commercialization.md)
-
-I commercialized pricing intelligence as evidence-backed portfolio decisions rather than maximum-price automation. Controlled tests, SKU economic roles, customer and brand guardrails, merchant evidence cards, field enablement and continuous exploration created adoption while keeping a $50M opportunity estimate separate from realized revenue.
+I operate where product truth becomes market behavior. My work spans audience and journey research, positioning, category design, launch gates, field and content systems, policy, experimentation, adoption, and value measurement. The common output is not a slogan. It is an organization that can explain what the product does, prove why it deserves trust, and know whether the market has earned the next investment.
