@@ -1,104 +1,58 @@
-# Manufacturing Cloud Migration - Technical go-to-market Launch
+# Manufacturing Cloud Migration — Four-Week Technical GTM Launch
 
-## How I frame the project
+## What I worked on
 
-I developed this case study to show how I would lead the work behind **Manufacturing Cloud Migration - Technical go-to-market Launch** from an ambiguous starting point to an evidence-based decision and an executable plan. I place it in the context of my [Microsoft experience from January 2020 to August 2022](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
+I completed this work during my [Microsoft experience from January 2020 to August 2022](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
 
-I keep the story practical and transparent. I start with public evidence, turn that evidence into explicit choices, assign ownership, and define how I would know whether the work is creating value.
+I rebuilt the content supply chain for a four-week cloud-migration launch aimed at skeptical manufacturing buyers. Live architect-writer sessions, risk-weighted validation, reused field knowledge, and phased release made technical documentation part of the product experience.
 
-## Why this problem matters to me
+## At a glance
 
-I see growth and go-to-market programs underperform when channel activity is separated from product behavior, incremental economics, customer trust, and operational follow-through. I therefore treat the project as a customer-value, measurement, and operating-model challenge, not as a narrow functional exercise.
+- I delivered more than 20 segment-specific technical assets in four weeks, compressing a 12–14-week production cycle.
+- I avoided a planned $120K agency engagement by pairing architects and writers in live build sessions and reusing vetted field documentation.
+- I increased technical-lead trial conversion from 5% to 15% and shortened influenced sales cycles from 12 weeks to nine.
 
-I use [NIST - SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) to ground security, privacy, resilience, and supply-chain control framework. I use [GOV.UK - Use agile ways of working (2019)](https://www.gov.uk/service-manual/service-standard/point-7-use-agile-ways-of-working) to ground iterative delivery and evidence-feedback methodology.
+## The situation
 
-## What I would set out to accomplish
+Manufacturing buyers were interested in cloud migration but skeptical about workload latency, data integrity, and compliance. The normal sequential review process could not meet the fixed launch date.
 
-- I would segment technical buyers by workload, latency, integrity, privacy, and continuity constraints.
-- I would map every material migration claim to a control, architecture decision, test result, or explicit limitation.
-- I would pair architects and communicators in short evidence-building cycles rather than sequential handoffs.
-- I would release the highest-risk decision guides first and update them from field questions.
+## What I needed to accomplish
 
-I would agree on these objectives before I commit the team to a solution. I would also record what is out of scope, which assumptions remain uncertain, and which new evidence would cause me to change direction.
+I needed to produce evidence strong enough to clear technical objections across distinct manufacturing segments without sacrificing launch timing or credibility.
 
-## How I would structure the work
+## What I did
 
-### How I would approach workstream 1
+- I replaced isolated drafting and delayed review with two-hour live architect-writer sessions.
+- I concentrated expert validation on deal-breaking claims while reusing approved language for general material.
+- I condensed internal manuals, support FAQs, and field wikis into decision-focused external guides.
+- I released the five highest-priority guides first, captured field feedback, and rolled out the remaining library in phases.
 
-I would segment technical buyers by workload, latency, integrity, privacy, and continuity constraints. I would define the service objective, failure modes, capacity assumptions, instrumentation, and recovery path before I scale the change. I would use canaries and controlled stress to learn where the system breaks while the blast radius is still small.
+## The results
 
-### How I would approach workstream 2
+- More than 20 assets shipped in four weeks.
+- Post-draft revision cycles were eliminated.
+- Trial conversion increased threefold to 15%.
+- I influenced sales cycles became 25% faster, and $120K in agency spend was avoided.
 
-I would map every material migration claim to a control, architecture decision, test result, or explicit limitation. I would use a staged plan with entry criteria, evidence-based go or no-go decisions, observability, rollback triggers, and named incident ownership. I would treat readiness as a demonstrated condition, not as a calendar date or a presentation milestone.
+## Decisions and trade-offs
 
-### How I would approach workstream 3
+- I treated technical documentation as part of product credibility, not launch collateral.
+- I allocated validation effort according to claim risk and buyer impact.
+- I sequenced launch assets by active opportunity rather than pretend every document has equal urgency.
 
-I would pair architects and communicators in short evidence-building cycles rather than sequential handoffs. I would turn this into a named workstream with an accountable owner, explicit inputs, a decision deadline, and a measurable exit condition. I would keep the work visible through a concise decision log and review unresolved dependencies before they become schedule surprises.
+## How I led
 
-### How I would approach workstream 4
+I connected architects, writers, reviewers, sales teams, and industry specialists in one evidence-producing workflow, increasing both speed and technical trust.
 
-I would release the highest-risk decision guides first and update them from field questions. I would use a staged plan with entry criteria, evidence-based go or no-go decisions, observability, rollback triggers, and named incident ownership. I would treat readiness as a demonstrated condition, not as a calendar date or a presentation milestone.
+## Why I chose this approach
 
-## How I would lead the people and decisions
+I used [NIST - SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) to ground security, privacy, resilience, and supply-chain control framework. I used [GOV.UK - Use agile ways of working (2019)](https://www.gov.uk/service-manual/service-standard/point-7-use-agile-ways-of-working) to ground iterative delivery and evidence-feedback methodology.
 
-I would run the project with a small decision-making core that includes product, marketing, sales or partnerships, analytics, finance, legal, customer support, and the teams responsible for the customer experience. I would agree up front on who recommends, who decides, who executes, and who must be consulted so that cross-functional collaboration does not become consensus by default.
+## Sources and external context
 
-- I would maintain a weekly working session focused on evidence, decisions, dependencies, and risks rather than broad status reporting.
-- I would use a concise decision log that records the question, options, evidence, owner, decision, date, and conditions for revisiting it.
-- I would schedule executive reviews around irreversible choices, material risk changes, and commitment gates instead of arbitrary reporting cycles.
-- I would keep user, customer, partner, or operator feedback connected to the backlog so that qualitative evidence changes delivery priorities.
+I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
 
-## How I would sequence delivery
-
-### How I would establish the baseline
-
-I would begin by documenting the current workflow, economics, controls, service levels, pain points, and ownership boundaries. I would separate verified facts from assumptions and make missing evidence visible before the team debates solutions.
-
-### How I would design the smallest credible intervention
-
-I would choose the smallest change that can test the central value and risk assumptions. I would define the target cohort, acceptance criteria, instrumentation, support model, and stopping conditions before I begin the pilot.
-
-### How I would pilot and learn
-
-I would release in a bounded environment, review both expected outcomes and unintended effects, and compare results with the baseline or a meaningful counterfactual. I would use the evidence to continue, revise, narrow, or stop rather than treating launch as proof of success.
-
-### How I would scale responsibly
-
-I would expand only after the operating owner, controls, documentation, support capacity, and measurement system are ready. I would preserve rollback paths and keep reviewing cohort-level outcomes so that scale does not hide deterioration.
-
-## How I would measure progress and value
-
-I would connect every measure to a decision. I would avoid a dashboard that reports activity without telling me whether to continue, intervene, or stop.
-
-| What I would measure | How I would use it |
-|---|---|
-| I would track claim-evidence coverage | I would use this to expose evidence gaps before they turn into confident but incorrect decisions. |
-| I would track unresolved technical objections | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
-| I would track validation cycle time | I would use this to locate operational friction and decide whether process, architecture, ownership, or capacity is the limiting factor. |
-| I would track guide usage | I would use this to learn whether the intended audience reaches meaningful value, and I would segment it so aggregate growth cannot hide weak cohorts. |
-| I would track trial progression | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
-| I would track security-review findings | I would use this to understand control effectiveness, severity, recurrence, and whether I need to stop, narrow, or redesign the rollout. |
-
-I would review leading indicators during delivery and lagging outcomes after adoption. I would also pair quantitative measures with qualitative evidence so that I can explain why a number moved and what I should do next.
-
-## What I would watch closely
-
-- I would watch for weak or selectively interpreted evidence, and I would document assumptions, counter-evidence, and the confidence level behind each material decision.
-- I would watch for hidden dependencies and unclear decision rights, and I would keep a live dependency map with an owner and escalation date for every critical path item.
-- I would watch for adoption that looks healthy in aggregate but fails for important users, markets, partners, or operating teams, and I would review outcomes by cohort.
-- I would watch for a control that exists on paper but is not observable in operation, and I would require test evidence, exception handling, and accountable approval before release.
-
-I would give every material risk an owner, an early-warning indicator, a mitigation, and a trigger for escalation or rollback. I would revisit the risk register whenever the scope, evidence, or operating environment changes.
-
-## What I would consider a strong outcome
-
-I would consider the project successful when stakeholders can explain the decision, the evidence behind it, the owner of each critical dependency, and the conditions for scaling or stopping. I would also expect the operating team to inherit a usable system: clear controls, observable performance, documented exceptions, and a measurement cadence that continues after the initial launch.
-
-## Sources I rely on
-
-I use independent methodology and market evidence to shape the analysis. I use the career link above to provide chronology.
-
-| Source I use | How I use it |
-|---|---|
-| [NIST - SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) | I use this source to ground security, privacy, resilience, and supply-chain control framework. |
-| [GOV.UK - Use agile ways of working (2019)](https://www.gov.uk/service-manual/service-standard/point-7-use-agile-ways-of-working) | I use this source to ground iterative delivery and evidence-feedback methodology. |
+| Source | How it informed my work | Timing |
+|---|---|---|
+| [NIST - SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) | I used it to ground security, privacy, resilience, and supply-chain control framework. | — |
+| [GOV.UK - Use agile ways of working (2019)](https://www.gov.uk/service-manual/service-standard/point-7-use-agile-ways-of-working) | I used it to ground iterative delivery and evidence-feedback methodology. | — |

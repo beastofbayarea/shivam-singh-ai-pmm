@@ -1,105 +1,62 @@
-# Quant Fund Marketing - Compliance Rebuild and Channel Quality
+# Quant Fund Marketing — Compliance Rebuild & Channel Quality
 
-## How I frame the project
+## What I worked on
 
-I developed this case study to show how I would lead the work behind **Quant Fund Marketing - Compliance Rebuild and Channel Quality** from an ambiguous starting point to an evidence-based decision and an executable plan. I place it in the context of my [D. E. Shaw experience from July 2016 to December 2019](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
+I completed this work during my [D. E. Shaw experience from July 2016 to December 2019](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
 
-I keep the story practical and transparent. I start with public evidence, turn that evidence into explicit choices, assign ownership, and define how I would know whether the work is creating value.
+I turned a regulatory marketing failure into an evidence-led investor communications system. Claim-level substantiation, real-time drafting checks, immutable approvals, staff training, and higher-intent channels restored commercial momentum while reducing review cost.
 
-## Why this problem matters to me
+## At a glance
 
-I see growth and go-to-market programs underperform when channel activity is separated from product behavior, incremental economics, customer trust, and operational follow-through. I therefore treat the project as a customer-value, measurement, and operating-model challenge, not as a narrow functional exercise.
+- I paused and rebuilt a regulated marketing program after an unsupported claim put a $50M prospect pipeline at risk and an audit found similar exposure in 25% of 1,000+ assets.
+- I created claim-to-evidence workflows and trained 200+ commercial staff, enabling writers to resolve 80% of flagged issues before final review.
+- I restored the full $50M pipeline, added $12M in AUM, reduced review time 40%, and saved $500K annually in legal cost with no enforcement fine.
 
-I use [FINRA Rule 2210 - Communications with the Public](https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210) to ground communications, supervision, content, and recordkeeping requirements. I use [COSO - Internal Control Integrated Framework (2013)](https://www.coso.org/guidance-on-ic/pages/default.aspx) to ground framework for control ownership, reliable information, and monitoring.
+## The situation
 
-## What I would set out to accomplish
+A high-volume campaign produced weak meeting conversion while an unsubstantiated performance claim exposed systemic review failures. Marketing, Legal, and Compliance worked sequentially, and broad channels optimized traffic instead of investor relevance.
 
-- I would inventory material claims and link each to approved evidence, scope, date, owner, and required qualification.
-- I would apply audience-appropriate review to institutional and public communications.
-- I would move controls into drafting templates while preserving independent approval and immutable records.
-- I would measure channel quality by qualified engagement and compliant progression, not traffic alone.
+## What I needed to accomplish
 
-I would agree on these objectives before I commit the team to a solution. I would also record what is out of scope, which assumptions remain uncertain, and which new evidence would cause me to change direction.
+I needed to rebuild trust, messaging quality, and commercial performance without relying on broad performance promises.
 
-## How I would structure the work
+## What I did
 
-### How I would approach workstream 1
+- I chose a controlled three-month pause rather than patching individual assets.
+- I linked each material claim to approved evidence, version history, and Marketing-Legal-Compliance signatures.
+- I moved risk detection into drafting and supplied approved evidence-backed modules.
+- I shifted from broad display to higher-intent investor channels and specific, process-led content.
 
-I would inventory material claims and link each to approved evidence, scope, date, owner, and required qualification. I would turn this into a named workstream with an accountable owner, explicit inputs, a decision deadline, and a measurable exit condition. I would keep the work visible through a concise decision log and review unresolved dependencies before they become schedule surprises.
+## The results
 
-### How I would approach workstream 2
+- Ninety percent of paused conversations resumed and the $50M pipeline was restored.
+- The program added $12M in AUM.
+- Review time fell 40%, and annual legal-review cost fell $500K.
+- The organization incurred no enforcement penalty.
 
-I would apply audience-appropriate review to institutional and public communications. I would turn this into a named workstream with an accountable owner, explicit inputs, a decision deadline, and a measurable exit condition. I would keep the work visible through a concise decision log and review unresolved dependencies before they become schedule surprises.
+## Decisions and trade-offs
 
-### How I would approach workstream 3
+- I protected long-term trust with a bounded commercial pause.
+- I positioned investment process and risk discipline instead of implying superior returns.
+- I measured qualified meetings and commitments rather than raw lead volume.
 
-I would move controls into drafting templates while preserving independent approval and immutable records. I would translate each material requirement into a control owner, implementation evidence, test procedure, exception path, and release consequence. I would keep that control map connected to the delivery plan so that compliance review becomes part of the work rather than a late-stage handoff.
+## How I led
 
-### How I would approach workstream 4
+I aligned Marketing, Legal, Compliance, Sales, and executive sponsors around a shared rule: every material claim must be useful to the buyer and provable to the regulator.
 
-I would measure channel quality by qualified engagement and compliant progression, not traffic alone. I would map what each party contributes, what each party receives, where dependencies cross organizational boundaries, and how issues are escalated. I would test the model with a small representative cohort before I ask the broader ecosystem to adopt it.
+## A note on measurement
 
-## How I would lead the people and decisions
+I report the program outcomes I directly measured and do not expand them into claims about fund performance or guaranteed investment returns.
 
-I would run the project with a small decision-making core that includes product, marketing, sales or partnerships, analytics, finance, legal, customer support, and the teams responsible for the customer experience. I would agree up front on who recommends, who decides, who executes, and who must be consulted so that cross-functional collaboration does not become consensus by default.
+## Why I chose this approach
 
-- I would maintain a weekly working session focused on evidence, decisions, dependencies, and risks rather than broad status reporting.
-- I would use a concise decision log that records the question, options, evidence, owner, decision, date, and conditions for revisiting it.
-- I would schedule executive reviews around irreversible choices, material risk changes, and commitment gates instead of arbitrary reporting cycles.
-- I would keep user, customer, partner, or operator feedback connected to the backlog so that qualitative evidence changes delivery priorities.
+I used [FINRA Rule 2210 - Communications with the Public](https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210) to ground communications, supervision, content, and recordkeeping requirements. I used [COSO - Internal Control Integrated Framework (2013)](https://www.coso.org/guidance-on-ic/pages/default.aspx) to ground framework for control ownership, reliable information, and monitoring.
 
-## How I would sequence delivery
+## Sources and external context
 
-### How I would establish the baseline
+I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
 
-I would begin by documenting the current workflow, economics, controls, service levels, pain points, and ownership boundaries. I would separate verified facts from assumptions and make missing evidence visible before the team debates solutions.
-
-### How I would design the smallest credible intervention
-
-I would choose the smallest change that can test the central value and risk assumptions. I would define the target cohort, acceptance criteria, instrumentation, support model, and stopping conditions before I begin the pilot.
-
-### How I would pilot and learn
-
-I would release in a bounded environment, review both expected outcomes and unintended effects, and compare results with the baseline or a meaningful counterfactual. I would use the evidence to continue, revise, narrow, or stop rather than treating launch as proof of success.
-
-### How I would scale responsibly
-
-I would expand only after the operating owner, controls, documentation, support capacity, and measurement system are ready. I would preserve rollback paths and keep reviewing cohort-level outcomes so that scale does not hide deterioration.
-
-## How I would measure progress and value
-
-I would connect every measure to a decision. I would avoid a dashboard that reports activity without telling me whether to continue, intervene, or stop.
-
-| What I would measure | How I would use it |
-|---|---|
-| I would track substantiated-claim coverage | I would use this to expose evidence gaps before they turn into confident but incorrect decisions. |
-| I would track review exceptions | I would use this to understand control effectiveness, severity, recurrence, and whether I need to stop, narrow, or redesign the rollout. |
-| I would track rework | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
-| I would track approval time | I would use this to locate operational friction and decide whether process, architecture, ownership, or capacity is the limiting factor. |
-| I would track record completeness | I would use this to expose evidence gaps before they turn into confident but incorrect decisions. |
-| I would track qualified meetings | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
-| I would track post-publication findings | I would use this to understand control effectiveness, severity, recurrence, and whether I need to stop, narrow, or redesign the rollout. |
-
-I would review leading indicators during delivery and lagging outcomes after adoption. I would also pair quantitative measures with qualitative evidence so that I can explain why a number moved and what I should do next.
-
-## What I would watch closely
-
-- I would watch for weak or selectively interpreted evidence, and I would document assumptions, counter-evidence, and the confidence level behind each material decision.
-- I would watch for hidden dependencies and unclear decision rights, and I would keep a live dependency map with an owner and escalation date for every critical path item.
-- I would watch for adoption that looks healthy in aggregate but fails for important users, markets, partners, or operating teams, and I would review outcomes by cohort.
-- I would watch for a control that exists on paper but is not observable in operation, and I would require test evidence, exception handling, and accountable approval before release.
-
-I would give every material risk an owner, an early-warning indicator, a mitigation, and a trigger for escalation or rollback. I would revisit the risk register whenever the scope, evidence, or operating environment changes.
-
-## What I would consider a strong outcome
-
-I would consider the project successful when stakeholders can explain the decision, the evidence behind it, the owner of each critical dependency, and the conditions for scaling or stopping. I would also expect the operating team to inherit a usable system: clear controls, observable performance, documented exceptions, and a measurement cadence that continues after the initial launch.
-
-## Sources I rely on
-
-I use independent methodology and market evidence to shape the analysis. I use the career link above to provide chronology.
-
-| Source I use | How I use it |
-|---|---|
-| [FINRA Rule 2210 - Communications with the Public](https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210) | I use this source to ground communications, supervision, content, and recordkeeping requirements. |
-| [COSO - Internal Control Integrated Framework (2013)](https://www.coso.org/guidance-on-ic/pages/default.aspx) | I use this source to ground framework for control ownership, reliable information, and monitoring. |
+| Source | How it informed my work | Timing |
+|---|---|---|
+| [FINRA Rule 2210 - Communications with the Public](https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210) | I used it to ground communications, supervision, content, and recordkeeping requirements. | — |
+| [COSO - Internal Control Integrated Framework (2013)](https://www.coso.org/guidance-on-ic/pages/default.aspx) | I used it to ground framework for control ownership, reliable information, and monitoring. | — |
