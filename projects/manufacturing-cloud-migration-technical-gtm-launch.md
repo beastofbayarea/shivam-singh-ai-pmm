@@ -1,56 +1,74 @@
-# Manufacturing Cloud Migration — Four-Week Technical GTM Launch
+# Shipping buyer-grade migration evidence in four weeks
 
-I completed this work during my [Microsoft experience from January 2020 to August 2022](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
+I led technical go-to-market for a manufacturing cloud-migration suite during the period this portfolio assigns to my Microsoft role. I saw that manufacturing buyers could not approve a migration from generic cloud claims about legacy workloads, plant latency, data integrity, recovery, and compliance. I worked with plant and enterprise technology buyers, industry sellers, cloud and migration architects, writers, security and resilience specialists, legal reviewers, agencies, customer success, finance, and launch leaders.
 
-## The buyer problem behind the content request
+## Twenty papers were not the actual deliverable
 
-Manufacturing buyers were interested in cloud migration but skeptical about workload latency, data integrity, operational resilience, and compliance. The initial request looked like a content-production challenge: create more than 20 segment-specific technical assets in four weeks even though the normal process took 12–14 weeks.
+The launch requested more than 20 segment-specific technical assets in four weeks; the normal content process took 12–14 weeks. Automotive suppliers, chemical plants and discrete manufacturers did not share one decisive objection. A generic “why cloud” library could hit the asset count while failing the buyer.
 
-I reframed it as a buyer-evidence problem. Five generic papers would not answer the questions blocking an automotive supplier, a chemical plant, and a discrete manufacturer. The team needed to identify each segment’s decisive technical objection and produce evidence that a buyer, architect, security reviewer, and seller could all use.
+I defined each guide as a decision product with five fields:
 
-## Rebuilding the content supply chain
+1. named buyer and manufacturing context;
+2. migration decision and blocking objection;
+3. workload assumptions and dependencies;
+4. claim-to-evidence map with an accountable technical owner; and
+5. next validation action, such as architecture review, assessment or trial.
 
-The existing workflow was sequential: a writer drafted, an architect reviewed later, legal and security entered near the end, and the document cycled until the launch date forced a compromise. I replaced that process with two-hour live architect–writer build sessions.
+That changed the launch from a writing sprint into an evidence supply chain.
 
-The working session produced the argument, diagrams, evidence gaps, and unresolved claims together. It eliminated the most expensive form of rework: a polished draft built on a technical assumption that an expert later rejected.
+## I put the architect inside creation
 
-I reused vetted material from internal manuals, support FAQs, field wikis, and approved security language, but I did not expose those artifacts directly to customers. I condensed them into decision-focused guides organized around workload fit, dependency, control, migration sequence, and proof.
+The old workflow translated the problem four times: field to marketer, marketer to writer, writer to architect, and reviewer back to writer. A polished draft could wait a week only to discover its migration assumption was false.
 
-## Risk-weighted validation
+I replaced the handoff with a two-hour live build:
 
-Not every sentence needed the same review effort. I concentrated scarce architect, security, privacy, and resilience attention on claims that could stop a deal or create material risk. General explanatory content reused approved language.
+- the architect stated workload, dependency, failure and proof;
+- the writer structured the buyer argument and exposed ambiguous terms;
+- the segment lead connected it to the buying committee and active opportunity;
+- evidence gaps and claim owners were recorded immediately; and
+- a second architect independently challenged material claims.
 
-NIST SP 800-53 gave me a structured way to cover security, privacy, resilience, accountability, and supply-chain controls. GOV.UK’s agile service guidance reinforced the value of multidisciplinary work, incremental release, user feedback, and continuous improvement. I translated those ideas into a practical content operating model rather than citing them as abstract frameworks.
+The source says this eliminated post-draft revision cycles. It does not mean no editing or independent review occurred; it means substantive technical disagreement was resolved during creation instead of generating a later formal loop.
 
-## Sequencing the launch
+## Expert attention followed buyer risk
 
-I ranked assets by active opportunity, buyer objection, and commercial consequence. The five highest-priority guides shipped first. Sellers and technical leads used them in live opportunities, and their feedback changed the remaining library before it was released.
+For a chemical-plant guide, about 90% of validation effort went to latency and data-integrity sections. Those claims could stop the deal or create operating harm. General cloud explanation reused approved language.
 
-That phased approach let the team learn inside the four-week window. It also avoided the fiction that every document had equal urgency or that the launch required the entire library to appear at once.
+The evidence architecture covered application and database dependencies; plant/edge connectivity and disconnected operation; latency distribution under the representative workload; batch and cutover windows; reconciliation and rollback; RTO/RPO and recovery exercise; identity, access, logging and segmentation; data location and retention; vendor and supply-chain responsibilities; and the precise boundary of any industry claim.
 
-## The outcome
+[NIST SP 800-53 Revision 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final), released in 2020, gave the team a broad control-family checklist across access, audit, contingency, privacy, integrity and supply chain. It did not certify the suite or decide which regulations applied to an automotive supplier or chemical plant.
 
-| Outcome | Result |
-|---|---:|
-| Segment-specific technical assets | More than 20 |
-| Production time | Four weeks instead of 12–14 |
-| Post-draft revision cycles | Eliminated |
-| Technical-lead trial conversion | 5% to 15% |
-| Influenced sales cycle | 12 weeks to nine |
-| Agency spend avoided | $120K |
+## Reuse did not mean publishing internal manuals
 
-The commercial results followed from technical credibility. Buyers received answers that matched their actual workload concerns, while sellers gained a reusable path from objection to evidence.
+Internal migration manuals, support FAQs, field wikis and approved security language contained valuable proof but were written for operators. I extracted vetted modules and rebuilt them around buyer decisions. One 40-page field manual became a 10-page technical quick start rather than a redacted internal dump.
 
-## What changed after the launch
+Every reused module retained source, owner, effective date, supported scope and refresh trigger. A field workaround was not promoted into product capability; an internal architecture diagram was not exposed without review; and a claim copied from another segment had to be valid for the current workload.
 
-The launch established a faster content-production model that did not depend on lowering the review bar. Architects, writers, reviewers, sales teams, and industry specialists worked as one evidence-producing team. The content became part of the product experience: it helped a customer decide whether, how, and when to migrate.
+## The library launched as a learning sequence
 
-## Sources and external context
+Five guides supporting the most consequential active objections shipped first. Automotive content went live for a priority opportunity while chemical-plant evidence remained under specialist review. Reader behavior, seller use, architecture questions and trial progression changed the next 15-plus guides during weeks two through four.
 
-The sources below informed the control coverage and delivery model. The resume link establishes the employment timeline.
+This was not a “minimum quality” release. Priority determined sequence; risk determined proof. [GOV.UK guidance on agile ways of working](https://www.gov.uk/service-manual/service-standard/point-7-use-agile-ways-of-working) supplied a useful external operating principle: multidisciplinary teams, working increments, user feedback and continuous improvement.
 
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [NIST — SP 800-53 Revision 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) | I used its control families to make security, privacy, resilience, accountability, and supply-chain evidence explicit. | 2020 |
-| [GOV.UK — Use agile ways of working](https://www.gov.uk/service-manual/service-standard/point-7-use-agile-ways-of-working) | I used it to structure multidisciplinary sessions, incremental release, user feedback, and continuous improvement. | 2019 |
+## Launch economics
 
+| Measure | Baseline | Recorded result | Defensible reading |
+|---|---:|---:|---|
+| Technical asset count | 20+ required | 20+ delivered | output count; value depends on buyer use and evidence quality |
+| Production time | 12–14 weeks | 4 weeks | 8–10 weeks faster; 66.7–71.4% reduction depending baseline |
+| Formal post-draft revision cycles | 4 per asset in source | 0 | substantive review moved into live build plus independent red team; not “published without review” |
+| Technical-lead trial conversion | 5% | 15% | +10 points, +200% relative, 3×; lead/download selection and denominator absent |
+| Influenced sales cycle | 12 weeks | 9 weeks | 3 weeks and 25% shorter among influenced opportunities; not a randomized causal estimate |
+| Planned agency spend | $120K | $0 | $120K gross avoided spend if scope is equivalent; internal architect/writer labor not deducted |
+
+The source says leads downloading the data-integrity paper were three times more likely to start a trial. That matches 5% to 15% mathematically, but downloaders may have had stronger initial intent. CRM influence establishes association and field utility, not incremental conversion by itself.
+
+## Provenance boundary
+
+The retained project page does not name Microsoft. It embeds an attachment called `Resume_IBM_Marketing.pdf`, while this repository assigns the project to my Microsoft tenure. The company and product attribution are therefore unresolved.
+
+I preserve the period and role framing used by this portfolio but do not call the suite a named Microsoft product, use Microsoft customer or revenue scale, or imply the attachment proves IBM employment. A contemporaneous launch brief or résumé should settle whether this was Microsoft, IBM, a client program or a reused interview story.
+
+I owned buyer segmentation, objection research, evidence architecture, live-build operating model, content prioritization, launch sequence, field enablement and influenced-pipeline measurement. Architects owned technical truth. Security and resilience specialists owned control evidence. Sellers owned opportunity action. Finance owned costs and sales-cycle definitions.
+
+The strategic PMM result was a repeatable way to market technical change without simplifying away the decision. Content became an interface between product capability, expert proof and the manufacturing buying committee—not a stack of launch assets.
