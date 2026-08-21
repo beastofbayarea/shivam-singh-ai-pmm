@@ -10,6 +10,8 @@ At the same time, a white paper said the strategy “consistently delivers above
 
 I chose a three-month controlled pause. Editing one sentence would have left the same content incentives, sequential reviews, untraceable email approvals and volume-first channels in place.
 
+I took executive ownership of a commercially painful reset: pause a campaign with $50 million of prospect pipeline in motion, review more than 1,000 assets, rebuild the claim and approval system, redesign the channel mix, and release conversations only when evidence and investor fit were visible. That converted compliance from a late veto into the operating system for recovering trust, pipeline, and ultimately $12 million of reported new AUM.
+
 ## I made the claim—not the document—the governed object
 
 Every material statement needed:

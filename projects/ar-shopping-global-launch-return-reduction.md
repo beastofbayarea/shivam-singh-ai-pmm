@@ -8,6 +8,8 @@ Furniture returns in the retained record reached 25–30%. Interviews found cust
 
 I positioned AR as verification before purchase: “View in Room” should answer a consequential question at the point of doubt. If it could not improve confidence about fit, clearance or appearance, visual novelty and time spent in the experience were irrelevant.
 
+I owned the global commercialization system around that promise: choose three markets that exposed different physical-product risks, define the trust and accessibility gates, create the merchant and 3D-asset supply chain, decide where AR appeared in the purchase journey, and connect return economics to a modeled revenue opportunity above $50 million. The launch therefore had to scale content, customer proof, device performance, and reverse logistics together.
+
 That proposition aligned teams around four proofs:
 
 1. spatial placement was accurate and stable enough for the named decision;

@@ -10,6 +10,8 @@ Customers needed visible essentials to remain fair and predictable. Merchants ne
 
 I built the category proposition around **evidence-backed portfolio pricing**: learn demand through controlled change, give each product an economic role, show the reason and uncertainty, enforce customer and brand guardrails, and learn from accountable merchant overrides.
 
+I owned the commercialization boundary between a $50 million modeled opportunity and value the retailer could responsibly realize. That required aligning the buying committee, converting statistical output into merchant decision evidence, protecting 500 highly visible items with explicit movement limits, redesigning field execution, and making every override part of the product's learning account rather than a failure hidden from executives.
+
 That message was deliberately not “AI finds the maximum price.” It made restraint, transparency and portfolio economics part of the commercial value.
 
 ## Before selling optimization, I sold the experiment

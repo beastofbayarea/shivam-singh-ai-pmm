@@ -8,6 +8,8 @@ Fifteen to twenty percent of ads were rejected after creation; the retained pilo
 
 I aligned the launch on **successful compliant publication**: an eligible advertiser creates an ad, understands and resolves relevant constraints, passes required review, launches, and achieves acceptable commercial performance. Faster generation that produced more rejected ads was negative productivity.
 
+I owned the product-market contract across generation, policy, human review, advertiser learning, enforcement risk, and campaign economics. That meant converting legal rules into contextual creation requirements, proving them first on 5,000 ads and then with 500 high-risk sellers, and refusing to scale on speed or output volume unless compliant publication and commercial performance moved together.
+
 The product supported AI-assisted copy and static assets. I do not extend this 2020–2022 record to later autonomous campaign management, video generation or public Copilot capabilities.
 
 ## Policy became contextual product data
