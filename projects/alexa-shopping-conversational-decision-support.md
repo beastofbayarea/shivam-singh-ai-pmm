@@ -1,58 +1,62 @@
 # Alexa Shopping — Conversational Decision Support
 
-## What I worked on
-
 I completed this work during my [AWS experience from July 2024 to present](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
 
-I repositioned a curiosity-driven shopping assistant around decision support and purchase confidence. The product narrowed large catalogs to credible choices, explained trade-offs, grounded claims in live commerce data, and kept customer control over transactional actions.
+## The product decision
 
-## At a glance
+I inherited a shopping assistant that could hold an interesting conversation but did not consistently help customers make a purchase decision. When I reviewed roughly 100,000 interactions, I found a 40% drop-off at the moment people had to leave the conversation and return to traditional search and filters. The handoff broke context, while unverified specifications and a clinical interface weakened trust.
 
-- I analyzed roughly 100,000 interactions and identified a 40% drop-off when users left conversation for traditional search and filters.
-- I repositioned the assistant around curated shortlists, explicit trade-offs, live retrieval, contextual memory, and review-before-purchase controls.
-- I reached 25% adoption, increased session depth 15%, reduced hallucination to 2.8%, and raised innovation favorability from 55% to 70%.
+I changed the proposition from “chat about products” to “reach a confident shortlist.” That distinction gave the experience a job: narrow a large catalog to three to five credible options, explain the trade-offs, and keep the customer in control of every transactional step.
 
-## The situation
+## The signal that changed the roadmap
 
-The assistant produced interesting conversations but weak buying outcomes. Unverified specifications, a fragmented handoff to search, and a clinical interface limited trust and conversion value.
+Conversation volume was the wrong success measure. A long session could mean engagement, confusion, or repeated failure. I centered the roadmap on decision quality instead:
 
-## What I needed to accomplish
+- Did the assistant retrieve current facts rather than improvise them?
+- Did the shortlist reflect the customer’s stated constraints?
+- Could the customer understand why one option differed from another?
+- Did the experience preserve context through comparison and confirmation?
+- Did the customer choose to continue toward purchase?
 
-I needed to define a buyer-centered proposition that made the AI useful in a high-consideration decision while preserving factual accuracy and customer agency.
+This reframing let Product, Science, Design, Brand, and Commerce evaluate the same customer outcome instead of optimizing separate proxy metrics.
 
-## What I did
+## The experience I launched
 
-- I shifted the product promise from open-ended chat to decision support with three to five credible options.
-- I used live catalog, price, inventory, and review retrieval for facts while reserving the model for reasoning and comparison.
-- I introduced task-specific prompts at moments of hesitation and selected a 15,000-user high-frequency cohort for adoption testing.
-- I connected brand-favorability gains to a GMV-linked business case to secure $5M in funding.
+I separated facts from reasoning. Live retrieval supplied catalog attributes, price, availability, and review evidence; the model organized that evidence into comparisons and explicit trade-offs. I rejected static model memory for fast-changing commerce facts because a fluent answer with stale inventory or an invented specification was worse than no answer.
 
-## The results
+I added contextual memory so customers did not have to repeat budget, use case, or preferences. I introduced task-specific prompts at moments of hesitation rather than opening every session with an unbounded chat box. Before any purchase-related action, the experience returned control to the customer through a visible review and confirmation step.
 
-- Feature adoption reached 25%.
-- Session depth increased 15%.
-- Hallucination fell to 2.8%.
-- Innovation favorability rose 15 points, from 55% to 70%.
+Amazon Science’s work on question suggestion for conversational shopping assistants reinforced the importance of grounding useful prompts in product metadata rather than generating generic conversation starters. The retrieval-augmented generation research from Lewis and colleagues provided the architectural rationale for pairing generation with updateable external knowledge.
 
-## Decisions and trade-offs
+## How I tested adoption and trust
 
-- I optimized decision quality instead of raw conversation volume.
-- I rejected static model memory for fast-changing commerce facts.
-- I required customer confirmation before any transactional action.
+I selected a 15,000-user cohort of frequent shoppers because they had enough category familiarity to expose weak comparisons and enough usage to generate a meaningful adoption signal. I reviewed hallucination, shortlist acceptance, follow-on exploration, session depth, and qualitative trust feedback together.
 
-## How I led
+I also treated brand perception as a commercial input, not a vanity metric. The increase in innovation favorability supported a GMV-linked business case, which helped me secure $5M in funding for the next stage.
 
-I connected customer research, product design, technical grounding, brand strategy, and commercial economics into one launch narrative that leadership could fund and customers could trust.
+## What changed
 
-## Why I chose this approach
+| Outcome | Result |
+|---|---:|
+| Feature adoption | 25% |
+| Session depth | +15% |
+| Hallucination rate | 2.8% |
+| Innovation favorability | 55% to 70% |
+| Funding secured | $5M |
 
-I used [Lewis et al. - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)](https://arxiv.org/abs/2005.11401) to ground technical basis for retrieval grounding, updateable knowledge, provenance, and factual generation. I used [NIST - Generative AI Profile (2024)](https://doi.org/10.6028/NIST.AI.600-1) to ground risk and evaluation framework for trustworthy generative AI deployment.
+The most important result was that the assistant had a defensible role in the shopping journey. It helped customers compare and decide without pretending that generation itself was the product.
+
+## What I carried forward
+
+I learned to define the customer decision before defining the AI experience. I also kept three operating rules: retrieve volatile facts, expose trade-offs rather than hide them, and require explicit confirmation before a system moves from advice to action.
 
 ## Sources and external context
 
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
+The sources below informed the product and risk approach. The resume link establishes the employment timeline.
 
 | Source | How it informed my work | Timing |
 |---|---|---|
-| [Lewis et al. - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)](https://arxiv.org/abs/2005.11401) | I used it to ground technical basis for retrieval grounding, updateable knowledge, provenance, and factual generation. | — |
-| [NIST - Generative AI Profile (2024)](https://doi.org/10.6028/NIST.AI.600-1) | I used it to ground risk and evaluation framework for trustworthy generative AI deployment. | — |
+| [Amazon Science — Question Suggestion for Conversational Shopping Assistants Using Product Metadata](https://assets.amazon.science/42/6e/c7c7aed9433d87fd1ab1f8bef4ff/question-suggestion-for-conversational-shopping-assistants-using-product-metadata.pdf) | I used it to connect conversational prompts to grounded product context and real shopping questions. | 2023 |
+| [Lewis et al. — Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) | I used it to separate updateable evidence retrieval from generative reasoning. | 2020 |
+| [NIST — Generative AI Profile](https://doi.org/10.6028/NIST.AI.600-1) | I used it to structure evaluation around reliability, transparency, human oversight, and harmful failure modes. | 2024 |
+

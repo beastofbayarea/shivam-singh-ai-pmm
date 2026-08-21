@@ -1,58 +1,60 @@
-# Retail Pricing - Value Proposition and Commercialization
-
-## What I worked on
+# Retail Pricing — Value Proposition and Commercialization
 
 I completed this work during my [McKinsey experience from July 2014 to June 2016](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
 
-I converted an elasticity model into a commercially usable pricing proposition. Randomized tests created credible evidence; product roles, customer and brand guardrails, plain-language reasoning, and merchant feedback turned the model into an adopted pricing system rather than a black-box recommendation engine.
+## The commercialization problem
 
-## At a glance
+The retailer did not simply need a more accurate model. Essentials were overpriced, niche items left margin unused, and historical data contained too little price movement to reveal credible demand response. Even after the analytical work improved, merchant distrust nearly stopped adoption.
 
-- I led pricing strategy that unlocked an estimated $50M revenue opportunity with 95% forecast accuracy.
-- I introduced randomized store-level price tests and interpretable elasticity modeling where static historical prices could not reveal causal demand response.
-- I reduced local price-change execution from six weeks to under one and lowered merchant overrides below 5% by month two.
+I treated commercialization as a product challenge: create causal evidence, translate it into a pricing architecture, make each recommendation understandable, and give merchants a controlled way to disagree.
 
-## The situation
+## Creating evidence where history had none
 
-Essentials were overpriced, niche items left margin unused, and historical data had too little price movement to support credible elasticity estimates. Merchant distrust nearly stopped commercialization.
+Static historical prices could not answer what happened when price changed because price had rarely changed. I designed randomized, stratified store tests with A/A checks, power calculations, staggered windows, difference-in-differences, and spillover controls.
 
-## What I needed to accomplish
+I used the tests to estimate elasticity and to expose where the model was fragile. Hindcasting over prior periods provided an additional release gate. I did not present 95% forecast accuracy as universal certainty; I used it as evidence that the model was decision-ready within the tested operating conditions.
 
-I needed to create a pricing architecture and value proposition that balanced customer perception, basket economics, margin, learning, and merchant judgment while giving frontline teams a reason to adopt it.
+The World Bank’s impact-evaluation guidance informed the counterfactual design. McKinsey’s contemporaneous retail-pricing research helped connect elasticity to category roles, customer perception, competitive behavior, and value creation.
 
-## What I did
+## Turning elasticity into a pricing architecture
 
-- I designed randomized, stratified tests with A/A checks, power calculations, staggered windows, difference-in-differences, and spillover controls.
-- I segmented products into key-value items, basket builders, core products, long-tail items, and heritage products.
-- I translated each recommendation into plain-language rationale, confidence, price history, customer and brand guardrails, and reason-coded overrides.
-- I reorganized merchant, data-science, and marketing work into weekly outcome pods that connected evidence, messaging, enablement, and adoption feedback.
+I segmented products by the role they played in the customer’s basket and perception of value:
 
-## The results
+- key-value items, where visible price trust mattered most;
+- basket builders, which influenced broader purchase behavior;
+- core products, where balanced revenue and margin decisions applied;
+- long-tail items, where willingness to pay could support more margin;
+- heritage products, where brand and customer expectations constrained movement.
 
-- The program identified an estimated $50M revenue opportunity.
-- Forecast accuracy reached 95%.
-- Price-change execution fell below one week.
-- Overrides declined below 5% by month two.
+This kept the system from optimizing every SKU independently. A mathematically attractive price on one item could still damage basket economics, customer trust, or brand position.
 
-## Decisions and trade-offs
+## Making the recommendation usable
 
-- I created causal evidence before commercializing recommendations from static historical data.
-- I optimized portfolio and basket economics rather than every SKU independently.
-- I protected highly visible items and cap weekly price movement at plus or minus 5%.
+Each recommendation included plain-language rationale, confidence, price history, customer and brand guardrails, and a reason-coded override. I capped weekly price movement at plus or minus 5% and protected highly visible products.
 
-## How I led
+I reorganized merchant, data-science, and marketing work into weekly outcome pods. Merchants reviewed recommendations, recorded disagreement, and fed local knowledge back into the system. That shifted overrides from unstructured resistance into governed learning.
 
-I turned a technically credible model into an explainable pricing proposition that gave merchants evidence, agency, enablement, and accountable override while preserving customer and brand trust.
+## The outcome
 
-## Why I chose this approach
+| Outcome | Result |
+|---|---:|
+| Estimated revenue opportunity | $50M |
+| Forecast accuracy in the validated scope | 95% |
+| Local price-change execution | Six weeks to under one |
+| Merchant overrides | Below 5% by month two |
 
-I used [McKinsey - Pricing in retail: Setting strategy (2015)](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) to ground market and pricing-method foundation. I used [World Bank - Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) to ground causal-evaluation and counterfactual methodology.
+The reduction in overrides was the clearest commercialization signal. The model became useful because merchants could understand it, challenge it, and see their decisions reflected in the next cycle.
+
+## The choices I protected
+
+I required causal evidence before commercializing recommendations from static historical data. I optimized portfolio and basket economics rather than treating every SKU as independent. I also preserved customer and brand guardrails even when a local margin calculation suggested more aggressive movement.
 
 ## Sources and external context
 
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
+These sources informed the pricing and evaluation methodology. The resume link establishes the work period.
 
 | Source | How it informed my work | Timing |
 |---|---|---|
-| [McKinsey - Pricing in retail: Setting strategy (2015)](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) | I used it to ground market and pricing-method foundation. | — |
-| [World Bank - Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | I used it to ground causal-evaluation and counterfactual methodology. | — |
+| [McKinsey — Pricing in retail: Setting strategy](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) | I used it to connect elasticity, category roles, customer price perception, and risk management. | 2015 |
+| [World Bank — Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | I used it to structure randomized tests, comparison groups, counterfactual reasoning, and interpretation. | Methodology available during the work period |
+
