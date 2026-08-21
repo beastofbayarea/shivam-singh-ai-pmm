@@ -1,57 +1,70 @@
 # Shivam Singh - AI Product Marketing
 
-I bring product strategy, customer insight, and commercial execution together to make complex AI products easier to understand, adopt, and scale. This portfolio shows how I approach positioning, segmentation, launch design, lifecycle growth, and international go-to-market decisions.
-
 ## Profile
 
-- I welcome conversations at [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu).
-- I share my broader professional background on [LinkedIn](https://www.linkedin.com/in/beastofbayarea).
+Hi, I’m Shivam. I work at the point where a technically complex AI product has to become a clear, credible choice for a real customer. I’m especially interested in the moments when positioning, trust, adoption, and monetization have to work together—not as separate marketing exercises, but as one go-to-market system.
 
-## What I focus on
+You can reach me at [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu), and you can find the rest of my professional background on [LinkedIn](https://www.linkedin.com/in/beastofbayarea).
 
-- I turn technical AI capabilities into clear customer value propositions and differentiated messaging.
-- I build segmentation, launch, and enablement plans around measurable adoption and revenue outcomes.
-- I connect acquisition, activation, usage, and monetization across the customer lifecycle.
-- I adapt go-to-market programs for enterprise buyers, regulated industries, and international markets.
+## If you only open one file
 
-## Resume
+Start with my [PDF resume](./shivam-singh-ai-pmm.pdf). It is the version I use for reading and sharing. If you need an editable version for an application system, the [ATS-friendly DOCX](./shivam-singh-ai-pmm-ats-autofill.docx) is here as well.
 
-- I use the [PDF resume](./shivam-singh-ai-pmm.pdf) as the primary version for reading and sharing.
-- I provide an [editable, ATS-friendly DOCX](./shivam-singh-ai-pmm-ats-autofill.docx) for application workflows.
+## How I bring AI products to market
 
-## Project portfolio
+I usually begin with a simple question: what has to be true for this customer to trust the product enough to change their behavior? From there, I work backward into segmentation, value proposition, evidence, launch readiness, field enablement, and lifecycle adoption.
 
-I organize these projects by career experience, with the most recent first. In each case study, I explain how I would define the audience and problem, develop the positioning, coordinate the launch, manage risk, and measure commercial value. I ground the analysis in the independent methodology and market sources linked inside each file.
+That approach matters even more in AI. A strong message cannot compensate for an unclear use case, weak evaluation, or unresolved policy risk. I want the product promise, the proof behind it, and the customer experience to reinforce one another.
+
+## A tour through the projects
+
+I’ve arranged these projects by career experience, newest first. They are meant to be read as working sessions: I talk through the problem, the choices I would make, the people I would bring together, and the measures that would tell me whether the launch is actually working. The research links inside each file are the foundation for the analysis.
 
 ### Amazon Web Services (AWS)
 
 **Principal AI Product Marketing and Global GTM** | July 2024 - Present
 
-- I use [Generative AI ads: compliance by construction](./projects/generative-ai-ads-compliance-by-construction.md) to show how I would translate advertising policy into product controls, buyer messaging, evaluation gates, and a credible launch decision.
-- I use [Alexa Shopping: conversational decision support](./projects/alexa-shopping-conversational-decision-support.md) to show how I would turn shopping friction into a differentiated conversational proposition, then connect discovery, trust, adoption, and commercial measurement.
+#### [Generative AI ads: compliance by construction](./projects/generative-ai-ads-compliance-by-construction.md)
+
+Advertising is a trust problem before it is a messaging problem. Here, I work through how I would turn policy requirements into product controls, evaluation gates, buyer proof, and a launch story that does not outrun the evidence.
+
+#### [Alexa Shopping: conversational decision support](./projects/alexa-shopping-conversational-decision-support.md)
+
+This project starts with a familiar customer frustration: too much choice and too little confidence. I explore how conversational assistance could make shopping decisions easier, then connect that proposition to discovery, trust, adoption, and commercial measurement.
 
 ### Rakuten Group, Inc.
 
 **Product Marketing Manager, Merchant AI Adoption and Monetization** | June 2023 - December 2023
 
-- I use [Japan recommendation engine: localized LLM launch](./projects/japan-recommendation-engine-localized-llm-launch.md) to show how I would localize an AI proposition for Japanese merchants, build trust through evidence, and sequence adoption before monetization.
+#### [Japan recommendation engine: localized LLM launch](./projects/japan-recommendation-engine-localized-llm-launch.md)
+
+A translated launch is not a localized launch. I look at how language, merchant workflows, customer expectations, and market-specific proof should shape the proposition—and why I would earn adoption before pushing monetization.
 
 ### Microsoft Corporation
 
 **Senior Product Marketing Manager, Enterprise Segmentation and Lifecycle Growth** | January 2020 - August 2022
 
-- I use [AR shopping: global launch and return reduction](./projects/ar-shopping-global-launch-return-reduction.md) to show how I would position an immersive shopping capability around customer confidence, retailer economics, and market-by-market launch readiness.
-- I use [Manufacturing cloud migration: technical GTM launch](./projects/manufacturing-cloud-migration-technical-gtm-launch.md) to show how I would turn a complex migration into a practical enterprise buying story supported by proof points, enablement, and adoption milestones.
+#### [AR shopping: global launch and return reduction](./projects/ar-shopping-global-launch-return-reduction.md)
+
+I frame augmented-reality shopping around a concrete outcome: helping customers buy with more confidence while improving retailer economics. The interesting work is in deciding where the experience is truly useful, what evidence retailers need, and how readiness changes by market.
+
+#### [Manufacturing cloud migration: technical GTM launch](./projects/manufacturing-cloud-migration-technical-gtm-launch.md)
+
+Enterprise migration stories can become abstract very quickly. In this case, I turn the proposition into a practical buying journey supported by operational proof, sales enablement, adoption milestones, and a clear view of migration risk.
 
 ### The D. E. Shaw Group
 
 **Vice President, Product Marketing and Value Realization** | July 2016 - December 2019
 
-- I use [Quant fund marketing: compliance rebuild](./projects/quant-fund-marketing-compliance-rebuild.md) to show how I would rebuild institutional marketing around governed claims, transparent evidence, consistent review, and long-term investor trust.
+#### [Quant fund marketing: compliance rebuild](./projects/quant-fund-marketing-compliance-rebuild.md)
+
+Institutional trust is cumulative and easy to lose. I explore how governed claims, transparent evidence, consistent review, and better investor communication can rebuild a marketing system around credibility rather than promotion.
 
 ### McKinsey & Company
 
 **Associate, Pricing, Positioning and Commercialization** | July 2014 - June 2016
 
-- I use [Retail pricing: value proposition and commercialization](./projects/retail-pricing-value-proposition-commercialization.md) to show how I would connect elasticity analysis to pricing architecture, merchant messaging, field enablement, controlled rollout, and adoption.
+#### [Retail pricing: value proposition and commercialization](./projects/retail-pricing-value-proposition-commercialization.md)
+
+Pricing analysis only creates value when people can act on it. I connect elasticity and architecture to merchant language, field enablement, controlled rollout, and the adoption signals I would watch after launch.
 
