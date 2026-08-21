@@ -14,7 +14,7 @@ I led the Japan launch plan for a language-model recommendation experience durin
 
 This changed the stakeholder argument from central speed versus local preference into an evidence-based question: what must be true for the Japanese customer experience to earn the common brand?
 
-Within the reconstructed record, I owned that market-readiness decision end to end: the six-week executive delay, the central-versus-Tokyo operating boundary, native-language authority, regional data handling, shadow evaluation, peak-capacity proof, rollback rule, and the commercial evidence required to reopen launch. The scope was not localization copy; it was whether a global AI platform could operate credibly as a Japan product without creating a permanent fork.
+Within the reconstructed record, my market-readiness remit covered the six-week executive delay, the central-versus-Tokyo operating boundary, native-language authority, regional data handling, shadow evaluation, peak-capacity proof, rollback rule, and the commercial evidence required to reopen launch. The scope was not localization copy; it was whether a global AI platform could operate credibly as a Japan product without creating a permanent fork.
 
 ## Global platform, local authority
 

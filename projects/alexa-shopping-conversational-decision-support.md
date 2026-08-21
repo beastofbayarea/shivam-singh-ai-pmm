@@ -8,7 +8,7 @@ Review of roughly 100,000 interactions found a 40% drop-off when customers left 
 
 I changed the proposition from “chat about products” to “reach a confident shortlist.” The experience had to turn stated constraints into three to five eligible options, show meaningful differences, preserve context, and give the customer final control over any cart or purchase action.
 
-I owned the category decision behind the experience: define what the assistant would help a shopper decide, what commerce evidence it had to show, where generation ended, and which adoption and trust signals justified another $5 million of investment. That united product truth, customer behavior, launch positioning, and the funding case around one accountable job rather than treating conversation volume as product-market fit.
+My category decision defined what the assistant would help a shopper decide, what commerce evidence it had to show, where generation ended, and which adoption and trust signals justified another $5 million of investment. That united product truth, customer behavior, launch positioning, and the funding case around one accountable job rather than treating conversation volume as product-market fit.
 
 That definition changed the competitive frame. We were not trying to create a more entertaining chatbot. We were reducing the effort and uncertainty between broad consideration and a customer-owned choice.
 

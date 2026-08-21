@@ -6,7 +6,7 @@ I led technical go-to-market for a manufacturing cloud-migration suite during th
 
 The launch requested more than 20 segment-specific technical assets in four weeks; the normal content process took 12–14 weeks. Automotive suppliers, chemical plants and discrete manufacturers did not share one decisive objection. A generic “why cloud” library could hit the asset count while failing the buyer.
 
-I owned a compressed technical commercialization program, not a content calendar. In four weeks I had to marshal architects, segment leads, writers, control specialists, sellers, legal reviewers, and field evidence into more than 20 buyer-grade decisions—while concentrating expert time on the few latency, integrity, recovery, and compliance claims capable of stopping a manufacturing migration.
+This became my compressed technical commercialization program, not a content calendar. In four weeks I had to marshal architects, segment leads, writers, control specialists, sellers, legal reviewers, and field evidence into more than 20 buyer-grade decisions—while concentrating expert time on the few latency, integrity, recovery, and compliance claims capable of stopping a manufacturing migration.
 
 I defined each guide as a decision product with five fields:
 
