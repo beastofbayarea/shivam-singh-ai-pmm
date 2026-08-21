@@ -1,74 +1,68 @@
 # Positioning augmented reality as pre-purchase evidence
 
-I led the global go-to-market work for an augmented-reality shopping product during my Microsoft tenure. I saw that home-category customers could not judge whether an expensive item would fit or look right from flat product images. I worked with shoppers, merchants and 3D-asset partners, category and commerce teams, product design, computer-vision and mobile engineers, accessibility and privacy specialists, marketing, finance, logistics, and regional leaders.
+Furniture returns were running at 25–30%, and customer interviews made the failure tangible: shoppers were using masking tape, color swatches, and mental arithmetic to decide whether a high-consideration item would fit, clear a doorway, or look coherent in a room.
 
-## I refused to launch “innovation”
+I led the global go-to-market design for an augmented-reality shopping product during my Microsoft tenure. My remit combined customer proposition, market sequencing, merchant economics, 3D-content supply, trust and accessibility, mobile performance, and the value case connecting purchase confidence to a modeled opportunity above $50 million.
 
-Furniture returns in the retained record reached 25–30%. Interviews found customers using masking tape, color swatches and mental arithmetic to judge scale, clearance, lighting and room harmony.
+## The launch promise
 
-I positioned AR as verification before purchase: “View in Room” should answer a consequential question at the point of doubt. If it could not improve confidence about fit, clearance or appearance, visual novelty and time spent in the experience were irrelevant.
+I refused to market novelty. “View in Room” had one commercial job: give a shopper better evidence at the moment physical uncertainty threatened the purchase.
 
-My commercialization remit covered three markets that exposed different physical-product risks, the trust and accessibility gates, the merchant and 3D-asset supply chain, AR's place in the purchase journey, and the connection from return economics to a modeled revenue opportunity above $50 million. The launch therefore had to scale content, customer proof, device performance, and reverse logistics together.
+That promise created four non-negotiable gates:
 
-That proposition aligned teams around four proofs:
+1. **Decision fidelity:** placement, scale, and stability had to be accurate enough for the named customer judgment.
+2. **Reach without hidden harm:** the core product page could not slow down for every shopper, and unsupported devices or rooms needed an honest fallback.
+3. **Catalog usefulness:** merchants and 3D partners had to supply enough governed assets for an actual category experience.
+4. **Purchase quality:** success required better conversion and fewer avoidable returns, not more time spent playing with AR.
 
-1. spatial placement was accurate and stable enough for the named decision;
-2. the experience worked across eligible rooms, lighting, devices and users—or failed plainly;
-3. merchants could supply enough governed 3D assets for a useful category; and
-4. exposure changed purchase quality, not just curiosity.
+I used more than 50 interviews to concentrate a 90-day prototype on one sofa. That single object exposed nearly every dependency: physical dimensions, coordinate origin, surface detection, occlusion, color and material fidelity, lighting, frame stability, device constraints, and customer interpretation.
 
-## One sofa defined the trust contract
+The retained source calls “millimeter accuracy” a gate but contains no protocol or achieved result. I translated that aspiration into measurable scale and pose error by device, distance, lighting, surface, and movement. When confidence fell below the supported range, the interface warned the user or reverted to exact dimensions and accessible 2D diagrams. Camera AR enhanced the evidence; it never became the only route to it.
 
-More than 50 interviews led to a 90-day, single-sofa prototype. The source says “millimeter accuracy” became a launch gate, but retains no measurement protocol or result. Consumer mobile AR across camera calibration, surfaces, lighting and motion cannot be assumed millimeter-accurate from that phrase. I treat it as an aspirational placement standard and would report measured scale and pose error by device and distance.
+## Three cities, three different reasons to fail
 
-The quality gate needed physical dimensions and coordinate origin from the merchant; validated units and bounding box; plane detection and tracking confidence; occlusion behavior; relocalization after movement; asset scale, texture and polygon limits; device frame rate and crash rate; and a warning or manual-dimension fallback when the environment was unsuitable.
+I chose Tokyo, Berlin, and Chicago because each made a different part of the proposition falsifiable.
 
-An accessible product page with exact dimensions, diagrams and usable 2D content remained essential for customers who could not or did not want to use camera AR. AR enhanced evidence; it did not become the only route to it.
+- Tokyo stressed compact rooms, tight clearance, small-space product specifications, and local buying context.
+- Berlin exposed changes in fabric perception caused by room orientation and light.
+- Chicago tested tracking stability over longer distances in open-plan rooms.
 
-## Three cities tested three physical products
+Regional teams and representative customers evaluated placement, error recovery, device behavior, confidence, and purchasing relevance—not merely translated labels. The shared engine remained global; environmental evidence and content acceptance stayed local.
 
-Tokyo exposed compact rooms, tight corners and the importance of small-space specifications. Berlin exposed how room orientation and light changed fabric perception. Chicago exposed longer tracking distances in open plans.
+Research on [AR, perceived risk, and decision comfort](https://pubmed.ncbi.nlm.nih.gov/36706429/) supported the mechanism that spatial representation can reduce uncertainty. I used it to frame a hypothesis, not to substitute for product evidence.
 
-Local teams and representative customers tested placement, occlusion, lighting, device performance, error recovery, confidence and buying context—not simply translation. The platform stayed common while environment-specific behavior and content requirements became launch evidence.
+## The merchant supply chain was part of the product
 
-Research by Hilken and colleagues on [AR, perceived risk and customer decision comfort](https://pubmed.ncbi.nlm.nih.gov/36706429/) supported the mechanism: spatially embedding a product may improve decision processes by reducing uncertainty. I used that as an external hypothesis, not as proof of this product’s effect.
+Customer value collapsed if the catalog contained only a handful of showcase SKUs. Merchants, however, had little reason to fund 3D models before demand was visible. I broke that deadlock by subsidizing an initial portfolio and creating an acceptance contract covering:
 
-## The asset supply chain was part of go-to-market
-
-No catalog coverage meant no customer utility, but merchants had little reason to fund models before seeing demand. I subsidized an early set and wrote partner acceptance criteria for:
-
-- source photography or CAD rights and product-version match;
-- real-world dimensions and scale origin;
-- geometry, texture, color and material fidelity;
-- GLB/USDZ packaging and device performance;
+- CAD or photography rights and exact product-version match;
+- real-world dimensions, units, scale origin, and bounding box;
+- geometry, texture, material, and color fidelity;
+- GLB/USDZ packaging and mobile-performance limits;
 - category and regional metadata; and
-- correction, expiration and replacement ownership.
+- correction, expiration, and replacement ownership.
 
-The source reports 9% higher sales on AR-enabled SKUs. I used that evidence to recruit more merchants, while acknowledging selection: enabled products and early partners may have been unusually important, digitally mature or well promoted.
+The early record showed 9% higher sales on AR-enabled SKUs. I used that signal to recruit the next merchant cohort while explicitly accounting for selection: early partners and enabled products were likely more important, digitally mature, or heavily promoted than the average SKU.
 
-## Distribution could not tax every shopper
+## Distribution protected the base business
 
-“View in Room” sat beside the product image where a customer questioned fit. The engine and asset lazy-loaded only after request. A feature flag, daily build, device-level crash monitoring and 200-millisecond time-to-interactive budget protected the core page. A low-end Android problem triggered a recorded 48-hour hotfix.
+“View in Room” appeared beside the product image where a shopper was already evaluating fit. The engine and model loaded only after request. A feature flag, daily builds, device-level crash monitoring, and a 200-millisecond page-interactivity budget protected customers who never opened AR. A low-end Android regression triggered a 48-hour hotfix.
 
-The 200 milliseconds was a budget, not a retained achieved percentile. I would measure page performance for eligible and non-eligible users, AR startup, model load, frame stability, crash-free sessions and abandonment by device. A conversion feature that slowed every product page could destroy more value than it created.
+The 200 milliseconds was a target, not a retained achieved percentile. The operating dashboard needed core-page performance for both eligible and ineligible users, AR startup time, asset load, frame stability, crash-free sessions, and abandonment by device. A conversion feature that degraded every visit would have destroyed more value than it created.
 
-## Commercial account with selection made explicit
+## The economic proof, with attribution intact
 
-| Measure | Baseline | Recorded result | What the claim requires |
-|---|---:|---:|---|
-| Category returns | 25–30% | 25% lower | likely relative reduction, implying 18.75–22.5% if the same cohort; exact category, window and reason-coded returns absent |
-| Conversion among AR-engaged users | comparison group | 40% higher | strongly self-selected; incremental effect requires randomized invitation or credible instrument |
-| Sales on AR-enabled SKUs | pre/other SKU comparison | 9% higher | control for SKU selection, season, placement, promotion, inventory and category |
-| Time on page | baseline index 100 | index 150 | 50% higher; diagnostic engagement, not value on its own |
-| Annual revenue contribution | model baseline absent | >$50M | attribution and recognition method absent; present as annualized program estimate, not proven incremental revenue |
-| Reverse-logistics savings | baseline absent | >$5M/year | requires avoided returns × loaded handling, freight, damage and resale costs; model, not necessarily booked saving |
+| Business mechanism | Baseline → target → recorded result | How it was or should be measured |
+|---|---|---|
+| Avoid wrong-fit purchases | 25–30% category return rate → material reduction → 25% lower | Reason-coded returns for comparable exposed/control orders; if relative, implied rate is 18.75–22.5% |
+| Improve purchase confidence | comparison cohort → positive incremental conversion → 40% higher among AR-engaged shoppers | Randomized invitation or intent-matched exposure; engaged-user comparison alone is self-selected |
+| Increase enabled-SKU sales | pre/other SKU baseline → positive lift → 9% higher | Control for SKU choice, inventory, placement, promotion, season, and category |
+| Avoid page harm | current page performance → ≤200 ms incremental TTI budget → achieved percentile not retained | Real-user monitoring by device and eligibility |
+| Create program value | model baseline absent → >$50M annual contribution → modeled >$50M | Incremental orders and margin net of returns, content, support, and device-performance costs |
+| Reduce reverse logistics | baseline absent → meaningful avoided cost → modeled >$5M/year | Avoided returns × loaded freight, handling, damage, and resale loss |
 
-The engaged-user conversion, enabled-SKU sales and return result may all share the same underlying purchases. I do not add them into separate revenue pools. The strongest outcome is the combined purchase-quality hypothesis supported by several imperfect measures.
+These measures share purchases and cannot be added as independent value pools. The strongest case was a coherent mechanism—better physical evidence improving conversion while reducing wrong-fit returns—supported by several imperfect signals.
 
-## Provenance and ownership
+I owned the customer problem definition, global proposition, city selection, launch and accessibility gates, asset-partner value proposition, merchant recruitment logic, point-of-doubt distribution, scorecard, and financial narrative. Engineering owned spatial implementation; merchants owned product truth; regional teams owned local evidence; finance and logistics owned realized economics.
 
-The retained page does not name the retailer, commerce platform or Microsoft product. This portfolio assigns the project to my Microsoft role, so I preserve the employment period but do not attach public Microsoft product reach or claim that Microsoft itself booked the $50 million.
-
-I owned the category position, customer research, market selection, launch gates, merchant value proposition, partner content system, point-of-doubt distribution, scorecard and financial story. Engineering owned spatial implementation. Merchants owned product truth and assets. Regional teams owned local evidence. Finance and logistics owned realized economics.
-
-The strategic marketing insight was that immersive technology became commercially credible only when the launch promise was a verifiable customer decision, supported by an asset supply chain and a performance contract—not a futuristic demo.
+The retained page does not identify the retailer or product, so I do not attach public Microsoft commerce scale to the result. The durable achievement was turning AR from an innovation demo into a governed purchase-quality system: customer proof, catalog operations, mobile reliability, and return economics had to scale together.

@@ -1,67 +1,52 @@
 # Rebuilding quant-fund marketing around claims that carried their proof
 
-I led the marketing-system recovery for a quantitative investment strategy at D. E. Shaw. I saw that broad performance language could not be defended and that high-volume media was creating attention without useful investor conversations. I worked with institutional prospects, clients and intermediaries, investment and risk teams, investor relations, marketing, legal and compliance, data and CRM teams, channel partners, finance, and senior leaders.
+A campaign beat its lead target and still failed the business.
 
-## The campaign beat the lead target and failed the business
+The retained record shows 1,200 leads against a target of 500, yet only 1.8% progressed to a meeting—about 22 meetings if all leads were unique and eligible. At the same time, a white paper claimed the strategy “consistently delivers above-market returns” without sufficient substantiation. Fifty active prospect conversations and a stated $50 million pipeline were paused. A review of more than 1,000 assets found similar unsupported language in roughly 25%.
 
-The retained record reports 1,200 leads against a target of 500, but only 1.8% moved to a meeting. Calling all 1,200 “qualified” was itself a metric problem: roughly 22 meetings from 1,200 leads, before accounting for duplicate or ineligible records, did not demonstrate institutional demand quality.
+At D. E. Shaw, I led the three-month commercial reset. I chose to stop rather than edit one sentence because the failure was systemic: volume-first channels, broad promises, sequential approvals, and email evidence could reproduce the same risk immediately.
 
-At the same time, a white paper said the strategy “consistently delivers above-market returns” without sufficient substantiation. Fifty active prospect conversations and a stated $50 million pipeline were paused. A review of more than 1,000 assets found similar unsupported language in about 25%.
+## The 90-day controlled reopening
 
-I chose a three-month controlled pause. Editing one sentence would have left the same content incentives, sequential reviews, untraceable email approvals and volume-first channels in place.
+**Contain.** I paused the campaign and froze affected versions while investment, risk, investor relations, marketing, legal, and compliance established the exposure. Pipeline remained visible but could not progress on uncleared material.
 
-I took executive ownership of a commercially painful reset: pause a campaign with $50 million of prospect pipeline in motion, review more than 1,000 assets, rebuild the claim and approval system, redesign the channel mix, and release conversations only when evidence and investor fit were visible. That converted compliance from a late veto into the operating system for recovering trust, pipeline, and ultimately $12 million of reported new AUM.
+**Reconstruct.** I made each material claim a governed object rather than treating the document as the object of approval. Exact wording, explicit and implied meaning, audience, vehicle, jurisdiction, permitted use, evidence, methodology, period, net/gross basis, qualifications, owners, effective date, expiry, versions, and every downstream asset travelled together.
 
-## I made the claim—not the document—the governed object
+**Enable.** More than 200 commercial staff learned to find approved modules, interpret flags, add evidence, and route exceptions. They reportedly resolved 80% of flagged issues before final review. “Resolved” meant corrected or substantiated under the rule set—not self-approved.
 
-Every material statement needed:
+**Reposition.** Generic performance language and broad display gave way to an inspectable investment-process story for CIOs, family offices, and intermediaries. Market mechanism, risk, evidence, uncertainty, and suitability became the message. More expensive clicks were acceptable if they produced substantially better fiduciary conversations.
 
-- exact wording and the explicit or implied proposition;
-- audience, vehicle, jurisdiction and permitted use;
-- source evidence, methodology, period and net/gross basis where relevant;
-- material qualifications shown with the claim;
-- investment, risk, legal, compliance and marketing ownership as applicable;
-- effective and expiry dates, version and every asset using it; and
-- withdrawal logic when evidence or context changed.
+**Reopen.** One prospect cohort remained paused while another received only cleared assets through revised channels. Asset and campaign identifiers connected approved exposure to CRM meeting, diligence, commitment, and AUM. This supported a controlled recovery without pretending the observational design was randomized.
 
-The creation system scanned risky language during drafting and offered approved evidence-backed modules. It did not “approve by keyword.” A harmless word can support a misleading implication, and a statistically true sentence can mislead when its benchmark, risk or period is omitted.
+## Claim governance became commercial infrastructure
 
-Marketing, legal and compliance approvals were time-stamped and versioned; published assets were traceable back to the evidence. More than 200 commercial staff learned the workflow and reportedly resolved 80% of flagged issues before final review. Self-resolution meant correcting or substantiating the claim under the rule set, not self-approving it.
+The drafting system surfaced risky language and offered evidence-backed modules. It did not approve by keyword: an innocuous phrase can imply a misleading promise, while a statistically correct sentence can mislead if benchmark, period, risk, or fee basis is absent.
 
-## The regulatory chronology had to be corrected
+Investment and risk owned performance evidence. Legal and compliance determined applicability and approval. Marketing owned comprehensible expression and channel fit. Investor relations owned the client conversation. Timestamps and versions made that accountability auditable.
 
-The original source says a “newly modernized SEC rule” triggered the incident. My D. E. Shaw tenure ended in December 2019. The SEC proposed a modernization on November 4, 2019, but [adopted the final Investment Adviser Marketing Rule on December 22, 2020](https://www.sec.gov/rules-regulations/2020/12/investment-adviser-marketing), with a later effective and compliance period. The final rule could not have governed an incident completed during my tenure.
+This architecture changed the economics of review. Reusable evidence and visible qualifications reduced repeated late-stage debate, while better investor fit reduced the cost of acquiring a qualified meeting.
 
-The defensible contemporaneous context is the prior advertising rule, applicable anti-fraud and fiduciary obligations as determined by counsel, the late-2019 proposal, and any entity-specific broker-dealer rules. [FINRA Rule 2210](https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210) supplies a fair, balanced and non-misleading communication benchmark for FINRA members, but the source does not establish its application to every D. E. Shaw entity or asset.
+## The regulatory chronology matters
 
-I therefore do not claim that the later SEC rule caused this program or that avoiding a fine proves compliance.
+The original source says a “newly modernized SEC rule” triggered the incident. My D. E. Shaw tenure ended in December 2019. The SEC proposed modernization in November 2019 but [adopted the final Investment Adviser Marketing Rule in December 2020](https://www.sec.gov/rules-regulations/2020/12/investment-adviser-marketing), after my tenure.
 
-## Credibility and channel quality were the same go-to-market problem
+I therefore frame the project under the contemporaneous advertising rule, applicable anti-fraud and fiduciary obligations as determined by counsel, the late-2019 proposal, and any entity-specific requirements. [FINRA Rule 2210](https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210) offers a fair, balanced, non-misleading benchmark for FINRA members, but the retained record does not establish its applicability to every entity or asset.
 
-The old program used broad display and generic “global outlook” messaging. I shifted the audience toward CIOs, family offices and intermediaries on higher-intent professional and financial channels. Content explained market mechanism, process, risk management, evidence and uncertainty rather than suggesting predictable superior return.
+Avoiding a recorded fine is neither proof of compliance nor additive business impact.
 
-Cost per click increased, but cost per qualified meeting reportedly fell 50%. That is the correct direction for a narrow institutional market: cheaper traffic is not efficient if it cannot support a fiduciary conversation.
+## Recovery account
 
-A staggered restart kept one prospect cohort paused while another received cleared assets through the revised channels. Campaign and asset identifiers linked exposure to CRM meeting, diligence, commitment and AUM. Approval timestamps established that only cleared versions should have run. The design helped separate re-engagement from background movement, although assignment and sample details are not retained.
+| Operating question | Baseline → target → recorded result | Measurement |
+|---|---|---|
+| Was campaign volume economically useful? | 500-lead target → qualified institutional demand → 1,200 leads, 1.8% meeting rate | Deduplicated eligible lead to held meeting; raw target attainment was 2.4× but quality was weak |
+| How much content required intervention? | >1,000 assets reviewed → identify and withdraw unsupported claims → ~25% affected | Versioned inventory and claim-level disposition; about 250 only if the rate applies uniformly |
+| Could paused relationships restart credibly? | 50 conversations paused → safely resume viable prospects → 90% resumed | Cleared-material exposure plus documented prospect re-engagement; about 45 conversations |
+| Was pipeline restored? | $50M paused → reopen cleared opportunities → $50M restored | CRM stage and evidence version; pipeline is not revenue or AUM |
+| Did recovery create assets? | $0 new AUM in stated recovery → convert reopened demand → $12M attributed | Executed/accepted capital in finance records, separated from fee revenue and retention |
+| Did governance increase speed? | review-time index 100 → reduce late rework → 60 | Same start/end points and risk mix; 40% lower |
+| Did it lower operating cost? | baseline absent → reduce repetitive legal review → $500K annualized | Avoided external/internal review run rate net of build and training |
+| Did targeting improve yield? | qualified-meeting cost index 100 → improve despite higher CPC → 50 | Channel spend / qualified held meetings for comparable cohorts |
 
-## Commercial and control account
+The source also says $50 million of pipeline was “restored.” I preserve that as reopened pipeline, not booked revenue, and I keep the $12 million of new AUM separate from management-fee economics.
 
-| Measure | Baseline or paused state | Recorded result | Defensible interpretation |
-|---|---:|---:|---|
-| Lead volume | 500 target | 1,200 | 2.4× target; not proof of qualification |
-| Lead-to-meeting | baseline absent | 1.8% | about 22 meetings if applied to all 1,200; counts and exclusions absent |
-| At-risk content | >1,000 assets reviewed | ~25% affected | about 250 assets if the rate applies uniformly; source says “more than,” so exact count unknown |
-| Paused conversations | 50 | 90% resumed | about 45 resumed; a resumed conversation is not a commitment |
-| Prospect pipeline | $50M paused | $50M restored | pipeline reopened, not revenue, AUM or closed business |
-| New AUM | $0 in stated recovery | $12M | gross assets attributed to the resumed program; not fee revenue or guaranteed retention |
-| Review time | index 100 | index 60 | 40% lower; start/end and asset-risk mix absent |
-| Annual legal-review cost | baseline absent | $500K lower | annualized run-rate estimate; internal build and training costs absent |
-| Cost per qualified meeting | baseline index 100 | index 50 | 50% lower despite higher CPC; channel and cohort attribution needed |
-
-The source reports no SEC fine. An absence of a recorded penalty is not a measurable benefit to add to AUM or cost savings, and it does not prove the communications had no deficiency.
-
-## What I owned
-
-I owned the marketing pause, investor proposition, claim-to-evidence product requirements, staff enablement, audience and channel redesign, restart sequence, CRM measurement and executive commercialization account. Investment and risk teams owned performance evidence. Legal and compliance determined requirements and approval. Investor-relations teams owned prospect conversations. Finance owned pipeline, AUM and cost classification.
-
-The strategic result was a marketing system in which credibility improved speed: reusable evidence, clear qualifications and early issue detection reduced late review while making the content more relevant to institutional decisions. It did not promise return; it sold an inspectable investment process.
+I owned the pause, investor proposition, claim-to-evidence requirements, training system, channel redesign, reopening sequence, CRM measurement, and executive recovery account. My most consequential act was choosing a temporary commercial loss to rebuild the mechanism that created trust. The outcome was not merely safer copy: it was a marketing system in which every important promise arrived with the evidence, scope, and owner required to sustain an institutional investment conversation.

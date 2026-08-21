@@ -1,75 +1,62 @@
 # Making compliant advertising the first generated draft
 
-I led product-marketing and launch work for an AI-assisted advertising workflow during my Microsoft tenure. I saw that businesses learned about policy only after finishing their creative, which made the product feel unpredictable and sent reviewers avoidable work. I worked with small businesses, catalog advertisers and agencies, product and growth, machine-learning and engineering teams, operations reviewers, policy, legal, brand, sales, finance, and regional owners.
+This program began with a contradiction: AI could create an ad in seconds, but 15–20% of ads were being rejected after creation and the retained pilot baseline was 18%. Advertisers experienced the product as arbitrary, policy reviewers absorbed avoidable volume, and faster generation merely accelerated failure.
 
-## I changed the unit of success
+During my Microsoft tenure, I led the product-marketing and launch intervention across small businesses, catalog advertisers, agencies, product, growth, machine learning, engineering, operations, policy, legal, brand, sales, finance, and regional owners.
 
-Fifteen to twenty percent of ads were rejected after creation; the retained pilot baseline was 18%. Product optimized generation speed, Growth watched CTR, Operations watched review volume, Policy watched exposure and advertisers watched launch delay. None represented the whole customer outcome.
+## One outcome reconciled six competing teams
 
-I aligned the launch on **successful compliant publication**: an eligible advertiser creates an ad, understands and resolves relevant constraints, passes required review, launches, and achieves acceptable commercial performance. Faster generation that produced more rejected ads was negative productivity.
+Product watched generation time. Growth watched CTR. Operations watched review volume. Policy watched exposure. Advertisers watched time to launch. Finance watched campaign economics.
 
-The launch contract I set spanned generation, policy, human review, advertiser learning, enforcement risk, and campaign economics. That meant converting legal rules into contextual creation requirements, proving them first on 5,000 ads and then with 500 high-risk sellers, and refusing to scale on speed or output volume unless compliant publication and commercial performance moved together.
+I replaced those local optimizations with **successful compliant publication**: an eligible advertiser creates an ad, understands and resolves relevant constraints, passes the required review, launches, and maintains acceptable commercial performance.
 
-The product supported AI-assisted copy and static assets. I do not extend this 2020–2022 record to later autonomous campaign management, video generation or public Copilot capabilities.
+That definition changed the roadmap. I would not support wider enforcement based on output volume or model speed. The product first had to convert policy into contextual creation requirements, prove coverage offline, demonstrate improvement in a high-risk live cohort, agree with human moderation in shadow mode, and preserve ROAS.
 
-## Policy became contextual product data
+## From 500 pages of policy to an executable creation experience
 
-More than 500 pages of guidance were tagged by market, product category, claim type, severity, required substantiation and brand rule. At creation time, the system combined advertiser brief, product feed, landing page, image and market, then retrieved the applicable constraints.
+The team structured more than 500 pages of guidance by market, product category, claim type, severity, substantiation, brand rule, owner, effective date, and escalation path. Advertiser brief, product feed, landing page, imagery, and market determined which constraints appeared during creation.
 
-The policy store did not “compile the law” into a final legal answer. Policy owners maintained approved interpretations, effective dates, versions, precedence and escalation. High-risk verticals received stricter evidence and review; ordinary goods did not inherit every medical, financial or age-sensitive rule.
+The system did not pretend to “compile the law.” Legal and policy owners maintained approved interpretations and precedence. Medical, financial, age-sensitive, and other high-consequence categories received stricter evidence and review; ordinary goods did not inherit every possible restriction.
 
-The [FTC’s advertising guidance](https://www.ftc.gov/business-guidance/advertising-marketing) and [small-business advertising FAQ](https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business) provided an external US baseline: express and implied claims must be truthful, non-deceptive and appropriately substantiated. Each jurisdiction and platform still needed its own policy owner.
+The experience itself had three modes:
 
-## The experience taught, constrained and escalated
+- **Teach:** highlight the risky text or implied visual claim, show the reason, and preserve the advertiser’s usable work.
+- **Constrain:** block or minimally repair high-confidence, high-severity violations.
+- **Escalate:** send ambiguous or consequential cases to trained reviewers with the policy, evidence, and model rationale attached.
 
-I marketed the workflow as creation help rather than moderation:
+Advertisers could appeal. Review outcomes entered weekly adjudication because a human decision was not automatically ground truth; disagreement, policy change, and regional edge cases had to be resolved before becoming training or enforcement data.
 
-`brief + product context → relevant policy → visible coaching → constrained draft → joint copy/image inspection → pass, repair or review`
+The [FTC advertising guidance](https://www.ftc.gov/business-guidance/advertising-marketing) and [small-business advertising FAQ](https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business) provided a US reference for truthfulness and substantiation. Each jurisdiction and platform still required its own accountable interpretation.
 
-Risky text or an implied visual claim was highlighted in place. The advertiser saw the reason and a safer alternative, retained the rest of the concept and could appeal. Silent rewriting had looked like model failure and removed agency.
+## The product had three buyers
 
-Enforcement depended on confidence and consequence:
+For a small business, the proposition was recoverability: understand the issue and launch without needing a policy specialist. For a catalog advertiser, it was consistent control across thousands of products with people focused on exceptions. For an agency, it was combining platform policy with client-brand constraints while retaining an approval trace.
 
-- high-confidence, high-severity violations were blocked or minimally repaired;
-- ambiguous or consequential cases went to a trained person with policy and evidence attached;
-- low-risk categories used lighter thresholds; and
-- appeal outcomes entered weekly rule, example and model review.
+The messages differed, but the proof contract stayed the same: fewer avoidable rejections, controlled false enforcement, faster compliant launch, bounded appeals, and no unacceptable commercial-performance decline.
 
-A human disposition was not automatically ground truth. Review disagreement, policy changes and regional edge cases had to be adjudicated before they altered enforcement.
+## I built the evidence ladder before the enforcement ladder
 
-## Three advertiser propositions
+**Historical replay:** 10,000 previously rejected ads tested known-violation coverage. The system caught 94% and uncovered a cross-modal gap in which copy and imagery were individually acceptable but jointly implied a prohibited claim. Because the dataset contained rejected ads, 94% was coverage of known problems—not overall production accuracy.
 
-For a small business, the value was understanding why an ad failed and recovering without a policy specialist. For a catalog aggregator, it was applying current rules consistently across thousands of products and routing only exceptions. For an agency, it was combining platform policy with client brand constraints and retaining an approval trace.
+**High-risk pilot:** 500 sellers used the workflow for 30 days. Rejection fell from 18% to 1.8%.
 
-The message therefore changed by segment, but the proof stayed common: fewer avoidable rejections, lower false enforcement, faster compliant launch, controlled appeals and no unacceptable decline in commercial performance.
+**Live shadowing:** 5,000 ads were compared with human moderation before automated enforcement. Recorded precision was 96% and recall 91%. Under those definitions, 4% of system-positive cases were not confirmed and 9% of human-confirmed violations were missed.
 
-## Evidence ladder before enforcement
+An earlier review found 12% of 10,000 ads flagged and 8% of those flags actually compliant. A later 1.4% false-positive figure uses an unspecified denominator, so I do not merge it with “8% of flags” or infer equivalence from 96% precision.
 
-**Offline replay.** Ten thousand historically rejected ads tested known-violation coverage. The system caught 94% and exposed a gap where copy and imagery separately looked acceptable but combined to imply a prohibited claim. Because the dataset contained rejected ads, 94% is not production accuracy.
+## Scale decision
 
-**Live pilot.** Five hundred high-risk sellers ran for 30 days against the existing flow. Rejection moved from 18% to 1.8%.
+| Launch question | Baseline → target → result | Measurement method |
+|---|---|---|
+| Can advertisers publish successfully? | 18% rejection → single-digit launch gate → 1.8% | Rejected / submitted ads for the same eligible high-risk cohort over 30 days |
+| Does control create wrongful friction? | 8% of initial flags compliant → reduce materially → ~1.4% later, denominator unresolved | Report both false blocks / compliant ads and false blocks / all blocks |
+| Does creation become operationally faster? | 5–7 days → same-day launch → <1 hour | Timestamp brief start, policy intervention, review queue, advertiser repair, and publication |
+| Does shadow quality support automation? | prior system absent → agreed thresholds → 96% precision, 91% recall | Blinded reviewer comparison plus adjudication by category and severity |
+| Does compliance preserve economics? | ROAS index 100 → no material harm → >140 in high-risk categories | Concurrent control, stable attribution window, spend normalization, and category mix |
+| Can standard categories remain efficient? | baseline performance → equivalence → no material decline recorded | Predefined equivalence bound and adequately powered comparison |
 
-**Shadow comparison.** Five thousand live ads were compared with human moderation before automated enforcement. The source reports 96% precision and 91% recall. That means 4% of system-positive cases were not confirmed and 9% of human-confirmed violations were missed under the retained definitions—not that 96% of all ads were correct.
+The source also contains near-zero asset-cost and $500 million projected-revenue claims tied to later image/video capability, while explicitly excluding them from this 2020–2022 Microsoft version. I exclude both.
 
-An earlier 10,000-ad review found 12% flagged and 8% of those flags actually compliant. Later false positives are reported as 1.4%, but the denominator is not specified; it should not be casually reconciled with “8% of flags” or 96% precision.
+My role was not policy approval or model implementation. I owned the category proposition, common success metric, segment narratives, policy-as-product requirements, coaching and escalation design, proof sequence, launch gates, field story, and commercial account. Policy and legal owned interpretations; engineering owned the system; reviewers resolved ambiguity; advertisers owned the final creative.
 
-## Launch scorecard
-
-| Measure | Baseline | Recorded result | Defensible calculation and caveat |
-|---|---:|---:|---|
-| Rejection | 18% | 1.8% | -16.2 points and -90% relative in the 500-seller, 30-day high-risk pilot |
-| False positives | initial 8% of flags compliant | ~1.4% later | source changes denominator; needs false blocks / compliant ads or false blocks / all blocks |
-| Compliant launch time | 5–7 days | <1 hour | from at least 120 hours to <1, more than 99.17% lower; task start/end and review queue mix required |
-| Shadow precision / recall | prior system absent | 96% / 91% | 5,000-ad comparison with human moderation; adjudication quality and category mix matter |
-| High-risk-category ROAS | baseline index 100 | >140 | source reports >40% higher despite some CTR decline; control design, spend, attribution and period absent |
-| Standard-category performance | baseline | no material decline | equivalence bound and sample absent |
-
-The source also lists asset cost falling from more than $150 to about $0.50 and more than $500 million in projected revenue potential, then explicitly instructs the Microsoft 2020–2022 version to exclude later image/video economics and that projection. I exclude both.
-
-## Chronology and attribution correction
-
-An earlier portfolio version placed this project under my current AWS role. The retained source explicitly says Microsoft and the 2020–2022 period, so I have moved it to Microsoft here and in the guide.
-
-Microsoft publicly announced [Copilot in the Microsoft Advertising Platform in September 2023](https://about.ads.microsoft.com/en/blog/post/september-2023/transforming-search-and-advertising-with-generative-ai), after my tenure ended, and described broader text and image creation publicly in [June 2024](https://www.about.ads.microsoft.com/en/blog/post/june-2024/what-you-can-do-with-copilot-in-the-microsoft-advertising-platform). Those launches show later company direction; I do not claim them as my launch. This project is best presented as an earlier internal AI-assisted copy/static workflow unless contemporaneous public or internal release evidence establishes otherwise.
-
-I owned the category proposition, shared success metric, segment message, policy-as-product requirements, coaching and escalation experience, validation narrative, launch gates and commercial measurement. Policy and legal owned interpretations. Engineering owned implementation. Reviewers owned ambiguous decisions. Advertisers owned the final creative. The lasting PMM advantage was making trust visible inside creation rather than promising that a faster generator would somehow become safe downstream.
+Microsoft publicly announced Advertising Copilot after my tenure. I do not claim that later public product. This project concerns an earlier AI-assisted copy/static workflow whose strategic advantage was operational: trust moved upstream into creation, turning compliance from a surprise veto into part of the product’s value.
