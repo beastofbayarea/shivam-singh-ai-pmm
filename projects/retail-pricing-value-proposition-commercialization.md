@@ -1,60 +1,78 @@
-# Retail Pricing — Value Proposition and Commercialization
+# Commercializing pricing intelligence without asking merchants to trust a black box
 
-I completed this work during my [McKinsey experience from July 2014 to June 2016](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
+I led positioning and commercialization for a national retailer’s pricing system at McKinsey. I saw that merchants rejected recommendations that ignored each product’s role in customer trust, basket economics, and brand history. I worked with customers, merchants and category leaders, pricing and data-science teams, marketing, store and digital-channel operators, finance, technology, and client executives.
 
-## The commercialization problem
+## The product needed different promises for different decision makers
 
-The retailer did not simply need a more accurate model. Essentials were overpriced, niche items left margin unused, and historical data contained too little price movement to reveal credible demand response. Even after the analytical work improved, merchant distrust nearly stopped adoption.
+The model entered an organization with three distinct concerns.
 
-I treated commercialization as a product challenge: create causal evidence, translate it into a pricing architecture, make each recommendation understandable, and give merchants a controlled way to disagree.
+Customers needed visible essentials to remain fair and predictable. Merchants needed to protect category strategy and explain why experience should yield to evidence. Finance needed incremental revenue and margin rather than a high forecast score. Channel operators needed approved prices to reconcile everywhere without weeks of handoffs.
 
-## Creating evidence where history had none
+I built the category proposition around **evidence-backed portfolio pricing**: learn demand through controlled change, give each product an economic role, show the reason and uncertainty, enforce customer and brand guardrails, and learn from accountable merchant overrides.
 
-Static historical prices could not answer what happened when price changed because price had rarely changed. I designed randomized, stratified store tests with A/A checks, power calculations, staggered windows, difference-in-differences, and spillover controls.
+That message was deliberately not “AI finds the maximum price.” It made restraint, transparency and portfolio economics part of the commercial value.
 
-I used the tests to estimate elasticity and to expose where the model was fragile. Hindcasting over prior periods provided an additional release gate. I did not present 95% forecast accuracy as universal certainty; I used it as evidence that the model was decision-ready within the tested operating conditions.
+## Before selling optimization, I sold the experiment
 
-The World Bank’s impact-evaluation guidance informed the counterfactual design. McKinsey’s contemporaneous retail-pricing research helped connect elasticity to category roles, customer perception, competitive behavior, and value creation.
+Two years of history contained little price movement. The absence of observed demand change could not prove inelasticity. I helped frame store- and geography-level experiments with balanced treatment and control, A/A checks, pre-set sample and duration, seasonal and competitor controls, stockout exclusions, difference-in-differences, spillover analysis and placebo periods.
 
-## Turning elasticity into a pricing architecture
+The [World Bank’s impact-evaluation methodology](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) supplied the external counterfactual discipline. It did not make every retail test causal automatically; assignment, compliance, spillover and power still needed to be shown.
 
-I segmented products by the role they played in the customer’s basket and perception of value:
+The launch evidence pack separated:
 
-- key-value items, where visible price trust mattered most;
-- basket builders, which influenced broader purchase behavior;
-- core products, where balanced revenue and margin decisions applied;
-- long-tail items, where willingness to pay could support more margin;
-- heritage products, where brand and customer expectations constrained movement.
+- elasticity estimate and interval within the tested range;
+- demand forecast error for the operating horizon;
+- expected SKU, category and basket economics;
+- customer-value and brand constraints;
+- treatment/control commercial result; and
+- the reason a merchant accepted or overrode the action.
 
-This kept the system from optimizing every SKU independently. A mathematically attractive price on one item could still damage basket economics, customer trust, or brand position.
+Forecast accuracy and causal confidence answered different questions. The source’s 95% “forecast accuracy” could not become “95% confidence that price caused demand.”
 
-## Making the recommendation usable
+## The message architecture gave every SKU a job
 
-Each recommendation included plain-language rationale, confidence, price history, customer and brand guardrails, and a reason-coded override. I capped weekly price movement at plus or minus 5% and protected highly visible products.
+**Key value items** protected price perception and traffic. **Basket builders** were evaluated through attachments rather than direct margin. **Core category items** balanced volume, substitution and margin. **Long-tail items** could capture measured willingness to pay. **Heritage products** required stronger brand and customer proof.
 
-I reorganized merchant, data-science, and marketing work into weekly outcome pods. Merchants reviewed recommendations, recorded disagreement, and fed local knowledge back into the system. That shifted overrides from unstructured resistance into governed learning.
+This portfolio story resolved an apparent contradiction for executives: lower prices on visible essentials and selective margin on low-sensitivity items were not competing tactics; they funded one value proposition.
 
-## The outcome
+The public-facing guardrails made that strategy credible. The top 500 visible items could be locked in sensitive periods. Weekly movement was capped at plus or minus 5%. Brand ladders, stockout state, competitor shocks, promotions and channel conflicts could block a recommendation. The product did not set individualized prices from personal willingness-to-pay data.
 
-| Outcome | Result |
-|---|---:|
-| Estimated revenue opportunity | $50M |
-| Forecast accuracy in the validated scope | 95% |
-| Local price-change execution | Six weeks to under one |
-| Merchant overrides | Below 5% by month two |
+McKinsey’s contemporaneous 2015 article on [retail pricing strategy](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) provided external context for category roles, price perception and disciplined implementation. The retained internal record supplies the project decisions and figures.
 
-The reduction in overrides was the clearest commercialization signal. The model became useful because merchants could understand it, challenge it, and see their decisions reflected in the next cycle.
+## One beloved product exposed a positioning failure
 
-## The choices I protected
+When the engine recommended increasing the price of a heritage item, the chief merchant saw only a number that contradicted experience. The pilot almost stopped.
 
-I required causal evidence before commercializing recommendations from static historical data. I optimized portfolio and basket economics rather than treating every SKU as independent. I also preserved customer and brand guardrails even when a local margin calculation suggested more aggressive movement.
+I turned the recommendation into an evidence card: current and proposed price, elasticity and uncertainty, experiment and recent history, trigger, expected volume/basket/margin effect, competitor context, relevant brand and ladder policy, and an override requiring a reason.
 
-## Sources and external context
+That was not a cosmetic explanation layer. It repositioned the merchant from recipient to accountable decision maker and the system from oracle to learning partner. Weekly review separated model error, stale data, missing constraint and legitimate merchant information.
 
-These sources informed the pricing and evaluation methodology. The resume link establishes the work period.
+Casual overrides fell 50% after reasons became visible, and overall overrides were below 5% by month two. Those measures have different unknown baselines and should not be collapsed into a single 50%-to-5% claim.
 
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [McKinsey — Pricing in retail: Setting strategy](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) | I used it to connect elasticity, category roles, customer price perception, and risk management. | 2015 |
-| [World Bank — Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | I used it to structure randomized tests, comparison groups, counterfactual reasoning, and interpretation. | Methodology available during the work period |
+## Launch enablement changed the operating path
 
+I replaced sequential merchant, analytics, marketing and channel queues with a weekly pod. Field enablement covered how to interpret elasticity, how to discuss customer value, when a guardrail blocked change, how to challenge a recommendation and how to read post-change evidence.
+
+The local approval-to-publication flow moved from six weeks to under one: more than an 83.3% reduction. A separate program metric reported 30% faster speed to market across a broader perimeter. Both can be true only if their scopes differ, so I keep them separate.
+
+A rotating 1% SKU sample maintained fresh evidence. Error above 5% for two weeks triggered category review; plus or minus 5% capped price movement. These three “5%” figures have different denominators—exploration share, forecast-error trigger and policy corridor—and are never interchangeable.
+
+## The commercialization scorecard
+
+| Commercial claim | Recorded figure | How I would present it |
+|---|---:|---|
+| Revenue opportunity | estimated $50M | scenario from eligible volume, price corridors, elasticity, basket effect and cannibalization; not booked revenue |
+| Forecast accuracy | 95% | only within validated scope; name metric, horizon, weighting and stockout treatment |
+| Merchant adoption | overrides <5% by month 2 | acceptance proxy, not proof recommendations were economically correct |
+| Local execution | 6 weeks to <1 week | >5 weeks and >83.3% faster from approval to reconciled publication |
+| Broader speed | 30% faster | separate program perimeter; do not substitute for local cycle result |
+| Customer protection | top 500 items, ±5% weekly cap | policy coverage and adherence, not financial outcome |
+| Continuous learning | 1% rotating sample | experiment design; report exposure, power, harm and value results |
+
+The $50 million was “unlocked” in the source, but no realization bridge is retained. Finance would need approved recommendations, actual price, incremental units, basket margin, competitor response, stockouts, overrides and persistence before it became realized impact.
+
+## My PMM ownership
+
+I owned segmentation of the buying committee, category proposition, experiment narrative, merchant evidence card, objection handling, guardrail story, field enablement, launch sequence and value-realization account. Data science owned estimation. Merchants owned category intent and overrides. Marketing owned promotion consistency. Technology and operations owned channel publication. Finance owned realized economics.
+
+The system commercialized successfully when the organization could explain not only why a price might change, but why some prices should not. That made customer trust and merchant agency part of the product’s competitive position, not obstacles to optimization.
