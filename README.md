@@ -2,6 +2,11 @@
 
 Role-targeted resume for AI product marketing, global go-to-market strategy, product adoption, monetization, and international launches.
 
+## Profile
+
+- Email: [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu)
+- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+
 ## Resume formats
 
 - [View the PDF](./shivam-singh-ai-pmm.pdf)
@@ -18,7 +23,7 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 
 ## Project interview stories
 
-Stories are grouped by their primary resume experience in reverse chronological order. Each project includes resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
+Stories are grouped by their primary resume experience in reverse chronological order. Each file is an externally grounded interview case reconstruction: independent methodology, regulatory, and market sources support the content, while the resume is used only for work dates. The files do not claim independently verified engagement results.
 
 ### Amazon Web Services (AWS)
 
@@ -46,7 +51,9 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 - [Quant fund marketing: compliance rebuild](./projects/quant-fund-marketing-compliance-rebuild.md) - trust-led messaging and governed institutional marketing
 
-## Profile
+### McKinsey & Company
 
-- Email: [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu)
-- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+**Associate, Pricing, Positioning and Commercialization** | July 2014 - June 2016
+
+- [Retail pricing: value proposition and commercialization](./projects/retail-pricing-value-proposition-commercialization.md) - elasticity-based pricing architecture, merchant messaging, enablement, and adoption
+

@@ -1,60 +1,28 @@
-# Quant Fund Marketing — Compliance Rebuild & Channel Quality
+# Quant Fund Marketing - Compliance Rebuild and Channel Quality
 
-> **Portfolio lens:** Regulated-market messaging, evidence-backed positioning, compliant content operations, and investor acquisition.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public AI Product Marketing resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) is used only to place this case within the D. E. Shaw role dated July 2016-December 2019.
 
-## Executive snapshot
+## Evidence-grounded premise
 
-Turned a regulatory marketing failure into an evidence-led investor communications system. Claim-level substantiation, real-time drafting checks, immutable approvals, staff training, and higher-intent channels restored commercial momentum while reducing review cost.
+FINRA Rule 2210 requires communications to be fair, balanced, and non-misleading and establishes supervision and recordkeeping expectations. COSO's 2013 framework treats reliable information, control ownership, and monitoring as core internal-control concerns. Those sources support a claim-level marketing system rather than ad hoc legal review.
 
-## Resume-ready impact
+## Case approach
 
-- Paused and rebuilt a regulated marketing program after an unsupported claim put a $50M prospect pipeline at risk and an audit found similar exposure in 25% of 1,000+ assets.
-- Created claim-to-evidence workflows and trained 200+ commercial staff, enabling writers to resolve 80% of flagged issues before final review.
-- Restored the full $50M pipeline, added $12M in AUM, reduced review time 40%, and saved $500K annually in legal cost with no enforcement fine.
+- Inventory material claims and link each to approved evidence, scope, date, owner, and required qualification.
+- Apply audience-appropriate review to institutional and public communications.
+- Move controls into drafting templates while preserving independent approval and immutable records.
+- Measure channel quality by qualified engagement and compliant progression, not traffic alone.
 
-## Interview story
+## Evidence-based success measures
 
-### Situation
+Use substantiated-claim coverage, review exceptions, rework, approval time, record completeness, qualified meetings, and post-publication findings. These are proposed measures, not reported historical results.
 
-A high-volume campaign produced weak meeting conversion while an unsubstantiated performance claim exposed systemic review failures. Marketing, Legal, and Compliance worked sequentially, and broad channels optimized traffic instead of investor relevance.
+## External source map
 
-### Task
-
-Rebuild trust, messaging quality, and commercial performance without relying on broad performance promises.
-
-### Actions
-
-- Chose a controlled three-month pause rather than patching individual assets.
-- Linked each material claim to approved evidence, version history, and Marketing-Legal-Compliance signatures.
-- Moved risk detection into drafting and supplied approved evidence-backed modules.
-- Shifted from broad display to higher-intent investor channels and specific, process-led content.
-
-### Results
-
-- Ninety percent of paused conversations resumed and the $50M pipeline was restored.
-- The program added $12M in AUM.
-- Review time fell 40%, and annual legal-review cost fell $500K.
-- The organization incurred no enforcement penalty.
-
-## Decisions and trade-offs
-
-- Protect long-term trust with a bounded commercial pause.
-- Position investment process and risk discipline instead of implying superior returns.
-- Measure qualified meetings and commitments rather than raw lead volume.
-
-## Leadership signal
-
-Aligned Marketing, Legal, Compliance, Sales, and executive sponsors around a shared rule: every material claim must be useful to the buyer and provable to the regulator.
-
-## Skills and keywords
-
-regulated product marketing · investor messaging · compliance-by-design · content governance · positioning · channel strategy · AUM growth · sales enablement · claim substantiation · trust
-
-## Factual boundary
-
-The story uses the source page's verified program outcomes and avoids expanding them into claims about fund performance or guaranteed investment returns.
-
-## Source
-
-[Original Notion project page](https://app.notion.com/p/2fbf9e255f21806992e2c9d1ba3f4b58)
-
+| Source | Contribution |
+|---|---|
+| [FINRA Rule 2210 - Communications with the Public](https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210) | Primary communications, supervision, content, and recordkeeping requirements. |
+| [COSO - Internal Control Integrated Framework (2013)](https://www.coso.org/guidance-on-ic/pages/default.aspx) | Primary framework for control ownership, reliable information, and monitoring. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) | Work dates only. |

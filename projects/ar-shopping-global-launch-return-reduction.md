@@ -1,56 +1,28 @@
-# AR Shopping — Global Launch & Return Reduction
+# AR Shopping - Global Launch and Return Reduction
 
-> **Portfolio lens:** Global product launch, localization, partner enablement, adoption, and value realization.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public AI Product Marketing resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) is used only to place this case within the Microsoft role dated January 2020-August 2022.
 
-## Executive snapshot
+## Evidence-grounded premise
 
-Reframed augmented reality from an innovation demo into pre-purchase verification for high-ticket home categories. The launch combined spatial accuracy, localized rendering, a partner pipeline for 3D assets, performance guardrails, and distribution at the exact moment of customer doubt.
+GOV.UK's user-research guidance calls for observing real users, researching continuously, and testing the entire service journey. WCAG 2.1 establishes accessible interaction as a product requirement across desktop and mobile experiences. Applied to AR commerce, these sources support treating spatial visualization as a decision aid that must be usable, optional, and tested across customer contexts.
 
-## Resume-ready impact
+## Case approach
 
-- Led a three-city validation and global rollout that increased conversion 40% among engaged users and lifted sales 9% on AR-enabled SKUs.
-- Reduced returns 25%, generating more than $50M in annual revenue and over $5M in reverse-logistics savings.
-- Built a partner asset pipeline and lazy-loaded experience with a 200 ms performance budget, enabling scale without degrading the core product page.
+- Research the uncertainty customers face before purchase, including scale, fit, placement, and accessibility barriers.
+- Test placement accuracy, recovery, device performance, and comprehension with diverse users.
+- Keep AR outside the critical page-load path and provide an equivalent non-AR decision path.
+- Define partner asset-quality gates and launch markets only after usability and performance evidence is available.
 
-## Interview story
+## Evidence-based success measures
 
-### Situation
+Use successful placement, task completion, accessibility conformance, page performance, product-confidence change, and return reasons. These are proposed measures, not reported historical results.
 
-Furniture returns reached 25–30% because customers could not verify scale, clearance, lighting, or style from flat images. A global rollout also had to work across different homes, devices, and merchant content capabilities.
+## External source map
 
-### Task
-
-Create a launch system that converted spatial confidence into commercial value while protecting page performance and solving the 3D-catalog cold start.
-
-### Actions
-
-- Prioritized millimeter-level placement accuracy before photorealistic effects.
-- Used pilots in Tokyo, Berlin, and Chicago to localize occlusion, lighting, and tracking behavior rather than merely translating copy.
-- Made AR optional and lazy-loaded, with feature flags, crash monitoring, and a strict time-to-interactive budget.
-- Subsidized early 3D-asset creation, added quality gates to partner contracts, and placed 'View in Room' beside product imagery.
-
-### Results
-
-- Engaged-user conversion increased 40%.
-- AR-enabled SKUs gained 9% in sales.
-- Returns fell 25%.
-- The program produced more than $50M in annual revenue and more than $5M in annual logistics savings.
-
-## Decisions and trade-offs
-
-- Treat AR as verification infrastructure, not visual novelty.
-- Localize physical behavior and environment assumptions market by market.
-- Keep the experience off the critical page-load path until the customer requests it.
-
-## Leadership signal
-
-Aligned product, platform engineering, market teams, asset partners, and merchants around confidence economics: more informed purchases, fewer returns, and scalable category adoption.
-
-## Skills and keywords
-
-global launch · product marketing · AR commerce · localization · partner enablement · customer confidence · conversion · return reduction · performance guardrails · value realization
-
-## Source
-
-[Original Notion project page](https://app.notion.com/p/15bf9e255f218054a3affde694438e31)
-
+| Source | Contribution |
+|---|---|
+| [GOV.UK - User research for government services (2016)](https://www.gov.uk/service-manual/user-research/how-user-research-improves-service-design) | Primary methodology for continuous, inclusive, outcome-focused user research. |
+| [W3C - Web Content Accessibility Guidelines 2.1 (2018)](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) | Primary accessibility standard for web and mobile interaction. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) | Work dates only. |

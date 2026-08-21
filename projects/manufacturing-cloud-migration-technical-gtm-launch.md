@@ -1,56 +1,28 @@
-# Manufacturing Cloud Migration — Four-Week Technical GTM Launch
+# Manufacturing Cloud Migration - Technical GTM Launch
 
-> **Portfolio lens:** Technical buyer enablement, launch strategy, credible content operations, and sales-cycle acceleration.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public AI Product Marketing resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) is used only to place this case within the Microsoft role dated January 2020-August 2022.
 
-## Executive snapshot
+## Evidence-grounded premise
 
-Rebuilt the content supply chain for a four-week cloud-migration launch aimed at skeptical manufacturing buyers. Live architect-writer sessions, risk-weighted validation, reused field knowledge, and phased release made technical documentation part of the product experience.
+NIST SP 800-53 Revision 5 integrates security, privacy, supply-chain risk, governance, and accountability controls. GOV.UK's agile standard favors early delivery to users, evidence, and iteration. Together they support a technical GTM model in which manufacturing migration claims are mapped to controls, architectures, tests, and phased buyer evidence.
 
-## Resume-ready impact
+## Case approach
 
-- Delivered more than 20 segment-specific technical assets in four weeks, compressing a 12–14-week production cycle.
-- Avoided a planned $120K agency engagement by pairing architects and writers in live build sessions and reusing vetted field documentation.
-- Increased technical-lead trial conversion from 5% to 15% and shortened influenced sales cycles from 12 weeks to nine.
+- Segment technical buyers by workload, latency, integrity, privacy, and continuity constraints.
+- Map every material migration claim to a control, architecture decision, test result, or explicit limitation.
+- Pair architects and communicators in short evidence-building cycles rather than sequential handoffs.
+- Release the highest-risk decision guides first and update them from field questions.
 
-## Interview story
+## Evidence-based success measures
 
-### Situation
+Use claim-evidence coverage, unresolved technical objections, validation cycle time, guide usage, trial progression, and security-review findings. These are proposed measures, not reported historical results.
 
-Manufacturing buyers were interested in cloud migration but skeptical about workload latency, data integrity, and compliance. The normal sequential review process could not meet the fixed launch date.
+## External source map
 
-### Task
-
-Produce evidence strong enough to clear technical objections across distinct manufacturing segments without sacrificing launch timing or credibility.
-
-### Actions
-
-- Replaced isolated drafting and delayed review with two-hour live architect-writer sessions.
-- Concentrated expert validation on deal-breaking claims while reusing approved language for general material.
-- Condensed internal manuals, support FAQs, and field wikis into decision-focused external guides.
-- Released the five highest-priority guides first, captured field feedback, and rolled out the remaining library in phases.
-
-### Results
-
-- More than 20 assets shipped in four weeks.
-- Post-draft revision cycles were eliminated.
-- Trial conversion increased threefold to 15%.
-- Influenced sales cycles became 25% faster, and $120K in agency spend was avoided.
-
-## Decisions and trade-offs
-
-- Treat technical documentation as part of product credibility, not launch collateral.
-- Allocate validation effort according to claim risk and buyer impact.
-- Sequence launch assets by active opportunity rather than pretend every document has equal urgency.
-
-## Leadership signal
-
-Connected architects, writers, reviewers, sales teams, and industry specialists in one evidence-producing workflow, increasing both speed and technical trust.
-
-## Skills and keywords
-
-technical product marketing · GTM launch · sales enablement · manufacturing cloud · buyer objections · content operations · launch readiness · trial conversion · sales velocity · technical credibility
-
-## Source
-
-[Original Notion project page](https://app.notion.com/p/2edf9e255f2180eda0c9e0c689518d8b)
-
+| Source | Contribution |
+|---|---|
+| [NIST - SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) | Primary security, privacy, resilience, and supply-chain control framework. |
+| [GOV.UK - Use agile ways of working (2019)](https://www.gov.uk/service-manual/service-standard/point-7-use-agile-ways-of-working) | Primary iterative delivery and evidence-feedback methodology. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) | Work dates only. |
