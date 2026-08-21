@@ -1,28 +1,106 @@
 # Retail Pricing - Value Proposition and Commercialization
 
-> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
->
-> **Timeline alignment:** The [public AI Product Marketing resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) is used only to place this case within the McKinsey role dated July 2014-June 2016.
+## How I frame the project
 
-## Evidence-grounded premise
+I developed this case study to show how I would lead the work behind **Retail Pricing - Value Proposition and Commercialization** from an ambiguous starting point to an evidence-based decision and an executable plan. I place it in the context of my [McKinsey experience from July 2014 to June 2016](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf).
 
-McKinsey's 2015 retail-pricing research describes elasticity, price perception, item segmentation, guardrails, and rapid test-and-learn as core capabilities. The World Bank's impact-evaluation handbook explains counterfactual reasoning and causal methods. These sources support commercializing pricing analytics as a governed decision product, not a black-box recommendation engine.
+I keep the story practical and transparent. I start with public evidence, turn that evidence into explicit choices, assign ownership, and define how I would know whether the work is creating value.
 
-## Case approach
+## Why this problem matters to me
 
-- Segment items by customer value perception, demand response, competition, economics, and category role.
-- Estimate elasticity and validate recommendations with comparison groups or controlled experiments where feasible.
-- Expose assumptions, guardrails, confidence, and expected trade-offs to merchants.
-- Position the product around measurable decision quality, explainability, and safe adoption.
+I see growth and go-to-market programs underperform when channel activity is separated from product behavior, incremental economics, customer trust, and operational follow-through. I therefore treat the project as a customer-value, measurement, and operating-model challenge, not as a narrow functional exercise.
 
-## Evidence-based success measures
+I use [McKinsey - Pricing in retail: Setting strategy (2015)](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) to ground market and pricing-method foundation. I use [World Bank - Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) to ground causal-evaluation and counterfactual methodology.
 
-Use experiment validity, forecast error, guardrail breaches, merchant adoption, override reasons, margin, volume, and price-perception indicators. These are proposed measures, not reported historical results.
+## What I would set out to accomplish
 
-## External source map
+- I would segment items by customer value perception, demand response, competition, economics, and category role.
+- I would estimate elasticity and validate recommendations with comparison groups or controlled experiments where feasible.
+- I would expose assumptions, guardrails, confidence, and expected trade-offs to merchants.
+- I would position the product around measurable decision quality, explainability, and safe adoption.
 
-| Source | Contribution |
+I would agree on these objectives before I commit the team to a solution. I would also record what is out of scope, which assumptions remain uncertain, and which new evidence would cause me to change direction.
+
+## How I would structure the work
+
+### How I would approach workstream 1
+
+I would segment items by customer value perception, demand response, competition, economics, and category role. I would make the economic assumptions explicit, show the base, upside, and downside cases, and identify which variables actually change the decision. I would connect every financial conclusion to an observable operating driver so that the model can be challenged and updated.
+
+### How I would approach workstream 2
+
+I would estimate elasticity and validate recommendations with comparison groups or controlled experiments where feasible. I would translate each material requirement into a control owner, implementation evidence, test procedure, exception path, and release consequence. I would keep that control map connected to the delivery plan so that compliance review becomes part of the work rather than a late-stage handoff.
+
+### How I would approach workstream 3
+
+I would expose assumptions, guardrails, confidence, and expected trade-offs to merchants. I would map what each party contributes, what each party receives, where dependencies cross organizational boundaries, and how issues are escalated. I would test the model with a small representative cohort before I ask the broader ecosystem to adopt it.
+
+### How I would approach workstream 4
+
+I would position the product around measurable decision quality, explainability, and safe adoption. I would document the authoritative sources, definitions, freshness expectations, lineage, and exception paths before I ask anyone to act on the data. I would require a visible reconciliation view so that the team can distinguish a business movement from a measurement defect.
+
+## How I would lead the people and decisions
+
+I would run the project with a small decision-making core that includes product, marketing, sales or partnerships, analytics, finance, legal, customer support, and the teams responsible for the customer experience. I would agree up front on who recommends, who decides, who executes, and who must be consulted so that cross-functional collaboration does not become consensus by default.
+
+- I would maintain a weekly working session focused on evidence, decisions, dependencies, and risks rather than broad status reporting.
+- I would use a concise decision log that records the question, options, evidence, owner, decision, date, and conditions for revisiting it.
+- I would schedule executive reviews around irreversible choices, material risk changes, and commitment gates instead of arbitrary reporting cycles.
+- I would keep user, customer, partner, or operator feedback connected to the backlog so that qualitative evidence changes delivery priorities.
+
+## How I would sequence delivery
+
+### How I would establish the baseline
+
+I would begin by documenting the current workflow, economics, controls, service levels, pain points, and ownership boundaries. I would separate verified facts from assumptions and make missing evidence visible before the team debates solutions.
+
+### How I would design the smallest credible intervention
+
+I would choose the smallest change that can test the central value and risk assumptions. I would define the target cohort, acceptance criteria, instrumentation, support model, and stopping conditions before I begin the pilot.
+
+### How I would pilot and learn
+
+I would release in a bounded environment, review both expected outcomes and unintended effects, and compare results with the baseline or a meaningful counterfactual. I would use the evidence to continue, revise, narrow, or stop rather than treating launch as proof of success.
+
+### How I would scale responsibly
+
+I would expand only after the operating owner, controls, documentation, support capacity, and measurement system are ready. I would preserve rollback paths and keep reviewing cohort-level outcomes so that scale does not hide deterioration.
+
+## How I would measure progress and value
+
+I would connect every measure to a decision. I would avoid a dashboard that reports activity without telling me whether to continue, intervene, or stop.
+
+| What I would measure | How I would use it |
 |---|---|
-| [McKinsey - Pricing in retail: Setting strategy (2015)](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) | Primary market and pricing-method foundation. |
-| [World Bank - Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | Primary causal-evaluation and counterfactual methodology. |
-| [Public resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) | Work dates only. |
+| I would track experiment validity | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
+| I would track forecast error | I would use this to judge whether the output is trustworthy enough for the next stage and to identify the failure modes that need targeted work. |
+| I would track guardrail breaches | I would use this to understand control effectiveness, severity, recurrence, and whether I need to stop, narrow, or redesign the rollout. |
+| I would track merchant adoption | I would use this to learn whether the intended audience reaches meaningful value, and I would segment it so aggregate growth cannot hide weak cohorts. |
+| I would track override reasons | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
+| I would track margin | I would use this to test whether the operating model creates durable value after implementation, risk, and support costs are included. |
+| I would track volume | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
+| I would track price-perception indicators | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
+
+I would review leading indicators during delivery and lagging outcomes after adoption. I would also pair quantitative measures with qualitative evidence so that I can explain why a number moved and what I should do next.
+
+## What I would watch closely
+
+- I would watch for weak or selectively interpreted evidence, and I would document assumptions, counter-evidence, and the confidence level behind each material decision.
+- I would watch for hidden dependencies and unclear decision rights, and I would keep a live dependency map with an owner and escalation date for every critical path item.
+- I would watch for adoption that looks healthy in aggregate but fails for important users, markets, partners, or operating teams, and I would review outcomes by cohort.
+- I would watch for incentives that shift cost or risk to a partner while concentrating value elsewhere, and I would test the commercial and operational model with representative partners.
+
+I would give every material risk an owner, an early-warning indicator, a mitigation, and a trigger for escalation or rollback. I would revisit the risk register whenever the scope, evidence, or operating environment changes.
+
+## What I would consider a strong outcome
+
+I would consider the project successful when stakeholders can explain the decision, the evidence behind it, the owner of each critical dependency, and the conditions for scaling or stopping. I would also expect the operating team to inherit a usable system: clear controls, observable performance, documented exceptions, and a measurement cadence that continues after the initial launch.
+
+## Sources I rely on
+
+I use independent methodology and market evidence to shape the analysis. I use the career link above to provide chronology.
+
+| Source I use | How I use it |
+|---|---|
+| [McKinsey - Pricing in retail: Setting strategy (2015)](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) | I use this source to ground market and pricing-method foundation. |
+| [World Bank - Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | I use this source to ground causal-evaluation and counterfactual methodology. |
