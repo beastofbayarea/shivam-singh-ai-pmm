@@ -14,19 +14,15 @@ That approach matters even more in AI. A strong message cannot compensate for an
 
 ## A tour through the projects
 
-I’ve arranged these projects by career experience, newest first. In each one, I explain the problem I faced, the choices I made, the people I brought together, and the measures I used to judge the result. The research links inside each file ground the market context and methodology.
+I’ve arranged these projects by career experience, newest first. Each one is rebuilt independently around its market, buyer, proposition, proof, launch system and value account. The files distinguish public product context from personal attribution, estimates from realized value, selection from incrementality, post-tenure facts from outcomes, and source conflicts that still need primary evidence.
 
 ### Amazon Web Services (AWS)
 
 **Principal AI Product Marketing and Global GTM** | July 2024 - Present
 
-#### [Generative AI ads: compliance by construction](./projects/generative-ai-ads-compliance-by-construction.md)
-
-I reframed an AI-assisted advertising workflow so compliance shaped creative development before launch instead of rejecting completed work. The product combined policy retrieval, visible coaching, constrained generation, joint copy-and-image inspection, and human escalation to make safe creation faster and commercially stronger.
-
 #### [Alexa Shopping: conversational decision support](./projects/alexa-shopping-conversational-decision-support.md)
 
-I repositioned a curiosity-driven shopping assistant around decision support and purchase confidence. The product narrowed large catalogs to credible choices, explained trade-offs, grounded claims in live commerce data, and kept customer control over transactional actions.
+I repositioned a curiosity-driven shopping assistant around a defensible shortlist, live commerce evidence, explicit trade-offs and customer confirmation. The file discloses that public Rufus launched before my AWS tenure and that the retained Alexa title and cross-Amazon assignment do not establish personal Rufus ownership.
 
 ### Rakuten Group, Inc.
 
@@ -34,7 +30,7 @@ I repositioned a curiosity-driven shopping assistant around decision support and
 
 #### [Japan recommendation engine: localized LLM launch](./projects/japan-recommendation-engine-localized-llm-launch.md)
 
-I converted a global-model rollout into a genuinely local launch after shadow testing exposed failures in respectful language, Kanji tokenization, cultural relevance, latency, and data residency. The launch preserved one global platform while adding a reusable regional adaptation layer.
+I converted a Japan model rollout into a launch-readiness decision across respectful language, tokenization, market relevance, latency, local evidence and data handling. The retained page explicitly says the same story can be relabelled Amazon or Rakuten without changing metrics, so the walkthrough preserves the Rakuten assignment while clearly identifying it as a composite that needs a primary launch record.
 
 ### Microsoft Corporation
 
@@ -42,11 +38,15 @@ I converted a global-model rollout into a genuinely local launch after shadow te
 
 #### [AR shopping: global launch and return reduction](./projects/ar-shopping-global-launch-return-reduction.md)
 
-I reframed augmented reality from an innovation demo into pre-purchase verification for high-ticket home categories. The launch combined spatial accuracy, localized rendering, a partner pipeline for 3D assets, performance guardrails, and distribution at the exact moment of customer doubt.
+I reframed augmented reality from an innovation demo into pre-purchase evidence for high-ticket home categories. The launch connected placement and failure quality, three physical-market pilots, a governed 3D-asset supply chain, page-performance protection and point-of-doubt distribution; commercial figures are reported with selection and attribution limits.
 
 #### [Manufacturing cloud migration: technical GTM launch](./projects/manufacturing-cloud-migration-technical-gtm-launch.md)
 
-I rebuilt the content supply chain for a four-week cloud-migration launch aimed at skeptical manufacturing buyers. Live architect-writer sessions, risk-weighted validation, reused field knowledge, and phased release made technical documentation part of the product experience.
+I rebuilt the evidence supply chain for a four-week cloud-migration launch aimed at skeptical manufacturing buyers. Live architect-writer sessions, risk-weighted validation, governed reuse and phased field learning made documentation part of the buying experience; the source embeds an IBM Marketing résumé while this repo assigns Microsoft, so the company attribution remains unresolved.
+
+#### [Generative AI ads: compliance by construction](./projects/generative-ai-ads-compliance-by-construction.md)
+
+I moved advertising policy into AI-assisted copy and static-asset creation through contextual rules, visible coaching, constrained drafting, joint copy/image inspection and human escalation. The source explicitly assigns the project to Microsoft in 2020–2022; the walkthrough separates it from Microsoft’s public Copilot advertising launches after my tenure and excludes later image/video economics.
 
 ### The D. E. Shaw Group
 
@@ -54,7 +54,7 @@ I rebuilt the content supply chain for a four-week cloud-migration launch aimed 
 
 #### [Quant fund marketing: compliance rebuild](./projects/quant-fund-marketing-compliance-rebuild.md)
 
-I turned a regulatory marketing failure into an evidence-led investor communications system. Claim-level substantiation, real-time drafting checks, immutable approvals, staff training, and higher-intent channels restored commercial momentum while reducing review cost.
+I turned an unsupported performance claim and a volume-first campaign into an evidence-led institutional marketing system. The account governs claims rather than documents, separates pipeline, conversations and AUM, and corrects the source’s anachronistic assertion that the SEC’s December 2020 Marketing Rule governed work completed by December 2019.
 
 ### McKinsey & Company
 
@@ -62,4 +62,4 @@ I turned a regulatory marketing failure into an evidence-led investor communicat
 
 #### [Retail pricing: value proposition and commercialization](./projects/retail-pricing-value-proposition-commercialization.md)
 
-I converted an elasticity model into a commercially usable pricing proposition. Randomized tests created credible evidence; product roles, customer and brand guardrails, plain-language reasoning, and merchant feedback turned the model into an adopted pricing system rather than a black-box recommendation engine.
+I commercialized pricing intelligence as evidence-backed portfolio decisions rather than maximum-price automation. Controlled tests, SKU economic roles, customer and brand guardrails, merchant evidence cards, field enablement and continuous exploration created adoption while keeping a $50M opportunity estimate separate from realized revenue.
