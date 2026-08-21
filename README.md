@@ -1,5 +1,15 @@
 # Shivam Singh — AI Product Marketing
 
+## Tell me about yourself
+
+**Q: Tell me about yourself / walk me through your background.**
+
+**A:** I am a product-marketing and go-to-market leader focused on making technically complex products understandable, credible, and commercially useful. I began at McKinsey, where I learned to connect customer research, pricing, and commercialization to measurable business decisions. At D. E. Shaw, I applied that discipline in a highly regulated environment, rebuilding institutional marketing around evidence, claims governance, and value realization rather than campaign volume.
+
+At Microsoft, my scope expanded across enterprise segmentation, lifecycle growth, cloud migration, augmented reality, and AI-assisted advertising. That work taught me that the buyer promise, technical proof, field enablement, and compliance model have to be designed together. During my MBA experience at Rakuten, I worked on localized AI adoption in Japan, including the decision to delay a recommendation launch until language, relevance, latency, and data handling met the market bar. At AWS, I have focused on AI product marketing and strategic GTM, including conversational-shopping decision support and evidence-gated investment cases.
+
+The through-line is that I do not treat messaging as decoration around a product. I define the customer decision, build the proof and launch system behind it, align Product, Sales, Engineering, Legal, and Finance, and measure whether positioning changes adoption, pipeline, conversion, retention, or investment. I am strongest in roles where an important technology needs both a sharper market story and a more credible path to scale.
+
 AI products do not reach a market because the model is impressive. They reach it when a customer can recognize the decision the product improves, trust the evidence behind the promise, and see a credible path from first use to economic value.
 
 That is the work represented here. Across conversational commerce, spatial shopping, recommendations, advertising, cloud migration, investment products, and retail pricing, I have treated positioning, launch readiness, adoption, compliance, and value realization as one system.
