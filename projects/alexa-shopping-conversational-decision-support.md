@@ -2,7 +2,7 @@
 
 The product question was not whether an assistant could talk about products. It was whether it could remove enough uncertainty for a shopper to make a better decision without surrendering control.
 
-During my AWS tenure, I led the proposition, audience strategy, decision-journey research, launch logic, trust scorecard, and funding case for a conversational-shopping experience spanning Amazon teams. The work crossed retail categories, commerce, product, design, applied science, engineering, brand, legal, trust, finance, and executive leadership.
+The cross-Amazon proposition sat inside my AWS remit: audience strategy, decision-journey research, launch logic, trust measurement, and the funding case were my direct accountabilities. Retail categories, commerce, product, design, applied science, engineering, brand, legal, trust, finance, and executive leadership all shaped the decision.
 
 ## The category decision
 
@@ -45,7 +45,7 @@ The measurement design joined factual correctness, constraint satisfaction, shor
 
 The source also associated the favorability shift with more than $100 million of potential incremental GMV. I used that as a scenario in the business case, not a realized outcome: a defensible estimate would require exposed users, incremental purchase probability, order value, cancellation, returns, and persistence.
 
-## What changed because I led it
+## The intervention and its limits
 
 Product and science teams still owned ranking and model implementation; commerce teams owned transaction truth; customers retained purchase authority. My contribution was to connect those separate accountabilities into a marketable product promise and an investable operating model. I defined the job, narrowed the experience, established the evidence hierarchy, selected the launch population, designed the adoption and trust account, and translated early proof into an expansion case.
 

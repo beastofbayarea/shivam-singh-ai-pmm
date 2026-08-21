@@ -2,7 +2,7 @@
 
 Furniture returns were running at 25–30%, and customer interviews made the failure tangible: shoppers were using masking tape, color swatches, and mental arithmetic to decide whether a high-consideration item would fit, clear a doorway, or look coherent in a room.
 
-I led the global go-to-market design for an augmented-reality shopping product during my Microsoft tenure. My remit combined customer proposition, market sequencing, merchant economics, 3D-content supply, trust and accessibility, mobile performance, and the value case connecting purchase confidence to a modeled opportunity above $50 million.
+During my Microsoft tenure, the global go-to-market design for this augmented-reality shopping product became my responsibility. I joined the customer proposition, market sequence, merchant economics, 3D-content supply, trust and accessibility, mobile performance, and a value case above $50 million into one launch decision.
 
 ## The launch promise
 
@@ -63,6 +63,6 @@ The 200 milliseconds was a target, not a retained achieved percentile. The opera
 
 These measures share purchases and cannot be added as independent value pools. The strongest case was a coherent mechanism—better physical evidence improving conversion while reducing wrong-fit returns—supported by several imperfect signals.
 
-I owned the customer problem definition, global proposition, city selection, launch and accessibility gates, asset-partner value proposition, merchant recruitment logic, point-of-doubt distribution, scorecard, and financial narrative. Engineering owned spatial implementation; merchants owned product truth; regional teams owned local evidence; finance and logistics owned realized economics.
+My decision rights covered the customer problem, global proposition, city sequence, accessibility and launch gates, asset-partner offer, merchant recruitment, point-of-doubt distribution, scorecard, and financial narrative. Spatial implementation stayed with Engineering; product truth with merchants; local evidence with regions; realized economics with Finance and Logistics.
 
 The retained page does not identify the retailer or product, so I do not attach public Microsoft commerce scale to the result. The durable achievement was turning AR from an innovation demo into a governed purchase-quality system: customer proof, catalog operations, mobile reliability, and return economics had to scale together.

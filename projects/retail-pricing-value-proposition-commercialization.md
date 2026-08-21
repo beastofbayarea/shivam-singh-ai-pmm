@@ -2,7 +2,7 @@
 
 A national retailer had built a sophisticated pricing engine, but merchant adoption was the actual constraint. Recommendations treated products as rows in a model while merchants managed customer trust, basket economics, competitive signals, brand history, and operational exceptions.
 
-At McKinsey, I led the proposition and commercialization design across merchants, category leaders, pricing and data science, marketing, store and digital operations, finance, technology, and client executives. The modeled opportunity was $50 million; my job was to turn that scenario into an accountable decision system rather than sell “AI sets the right price.”
+At McKinsey, the proposition and commercialization design were mine to resolve across merchants, category leaders, Pricing/Data Science, Marketing, store and digital operations, Finance, Technology, and client executives. The task was to turn a modeled $50 million scenario into an accountable decision system—not sell “AI sets the right price.”
 
 ## The merchant constitution
 
@@ -58,6 +58,6 @@ Three different 5% figures appeared in the program: the price-movement corridor,
 
 I replaced sequential merchant, analytics, marketing, and channel queues with a weekly pod. Enablement taught teams to interpret elasticity, recognize blocked recommendations, challenge evidence, discuss customer value, and read post-change results. Technology and operations owned price publication; merchants owned category intent and overrides; data science owned estimation; finance owned the realization bridge.
 
-I owned the stakeholder proposition, category-role architecture, experiment narrative, decision card, objection handling, guardrail story, field enablement, launch cadence, and value account.
+The stakeholder proposition, category-role architecture, experiment narrative, decision card, objection handling, guardrail story, field enablement, launch cadence, and value account formed my commercialization brief.
 
 The strategic achievement was not convincing merchants to trust a model. It was redesigning the product so trust was unnecessary: every recommendation could be inspected, constrained, challenged, measured, and improved—and every price the system declined to change became part of its value.

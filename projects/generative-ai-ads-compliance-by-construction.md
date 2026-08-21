@@ -2,7 +2,7 @@
 
 This program began with a contradiction: AI could create an ad in seconds, but 15–20% of ads were being rejected after creation and the retained pilot baseline was 18%. Advertisers experienced the product as arbitrary, policy reviewers absorbed avoidable volume, and faster generation merely accelerated failure.
 
-During my Microsoft tenure, I led the product-marketing and launch intervention across small businesses, catalog advertisers, agencies, product, growth, machine learning, engineering, operations, policy, legal, brand, sales, finance, and regional owners.
+During my Microsoft tenure, I took charge of the product-marketing and launch intervention, aligning small businesses, catalog advertisers, agencies, Product, Growth, ML, Engineering, Operations, Policy, Legal, Brand, Sales, Finance, and regional owners around one release contract.
 
 ## One outcome reconciled six competing teams
 
@@ -57,6 +57,6 @@ An earlier review found 12% of 10,000 ads flagged and 8% of those flags actually
 
 The source also contains near-zero asset-cost and $500 million projected-revenue claims tied to later image/video capability, while explicitly excluding them from this 2020–2022 Microsoft version. I exclude both.
 
-My role was not policy approval or model implementation. I owned the category proposition, common success metric, segment narratives, policy-as-product requirements, coaching and escalation design, proof sequence, launch gates, field story, and commercial account. Policy and legal owned interpretations; engineering owned the system; reviewers resolved ambiguity; advertisers owned the final creative.
+My authority stopped short of policy approval and model implementation. It covered the category proposition, shared outcome, segment narratives, policy-as-product requirements, coaching/escalation experience, proof sequence, launch gates, field story, and commercial account. Policy and Legal interpreted rules; Engineering ran the system; reviewers resolved ambiguity; advertisers controlled final creative.
 
 Microsoft publicly announced Advertising Copilot after my tenure. I do not claim that later public product. This project concerns an earlier AI-assisted copy/static workflow whose strategic advantage was operational: trust moved upstream into creation, turning compliance from a surprise veto into part of the product’s value.

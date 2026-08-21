@@ -4,7 +4,7 @@ The assignment sounded like content production: deliver more than 20 manufacturi
 
 I treated it as an evidence-throughput problem. Automotive suppliers, chemical plants, and discrete manufacturers did not need another generic “why cloud” campaign; they needed enough proof to approve workloads constrained by plant latency, legacy dependencies, data integrity, recovery, and industry controls.
 
-During the period this portfolio assigns to my Microsoft role, I led the buyer segmentation, objection research, evidence architecture, expert operating model, production sequence, field enablement, and value measurement. The program connected plant and enterprise technology buyers, industry sellers, migration architects, writers, security and resilience specialists, legal reviewers, agencies, customer success, finance, and launch leaders.
+Within the period this portfolio assigns to Microsoft, I was accountable for buyer segmentation, objection research, evidence architecture, the expert operating model, production sequence, field enablement, and value measurement. The delivery network connected plant and enterprise buyers, industry sellers, architects, writers, security/resilience specialists, Legal, agencies, Customer Success, Finance, and launch leaders.
 
 ## The unit of production was a buyer decision
 

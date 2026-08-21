@@ -4,7 +4,7 @@ A campaign beat its lead target and still failed the business.
 
 The retained record shows 1,200 leads against a target of 500, yet only 1.8% progressed to a meeting—about 22 meetings if all leads were unique and eligible. At the same time, a white paper claimed the strategy “consistently delivers above-market returns” without sufficient substantiation. Fifty active prospect conversations and a stated $50 million pipeline were paused. A review of more than 1,000 assets found similar unsupported language in roughly 25%.
 
-At D. E. Shaw, I led the three-month commercial reset. I chose to stop rather than edit one sentence because the failure was systemic: volume-first channels, broad promises, sequential approvals, and email evidence could reproduce the same risk immediately.
+At D. E. Shaw, I put the three-month commercial reset into motion. Stopping was preferable to editing one sentence because volume-first channels, broad promises, sequential approvals, and email evidence would have reproduced the failure immediately.
 
 ## The 90-day controlled reopening
 
@@ -49,4 +49,4 @@ Avoiding a recorded fine is neither proof of compliance nor additive business im
 
 The source also says $50 million of pipeline was “restored.” I preserve that as reopened pipeline, not booked revenue, and I keep the $12 million of new AUM separate from management-fee economics.
 
-I owned the pause, investor proposition, claim-to-evidence requirements, training system, channel redesign, reopening sequence, CRM measurement, and executive recovery account. My most consequential act was choosing a temporary commercial loss to rebuild the mechanism that created trust. The outcome was not merely safer copy: it was a marketing system in which every important promise arrived with the evidence, scope, and owner required to sustain an institutional investment conversation.
+The pause, investor proposition, claim-to-evidence standard, staff enablement, channel redesign, reopening sequence, CRM measurement, and executive recovery account sat within my remit. The consequential choice was accepting temporary commercial loss to rebuild trust. The result was not merely safer copy; every important promise now travelled with the evidence, scope, and accountable owner needed for an institutional investment conversation.
