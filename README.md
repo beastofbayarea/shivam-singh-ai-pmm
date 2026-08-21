@@ -46,6 +46,12 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 - [Quant fund marketing: compliance rebuild](./projects/quant-fund-marketing-compliance-rebuild.md) - trust-led messaging and governed institutional marketing
 
+### McKinsey & Company
+
+**Associate, Pricing, Positioning and Commercialization** | July 2014 - June 2016
+
+- [Retail pricing: value proposition and commercialization](./projects/retail-pricing-value-proposition-commercialization.md) - elasticity-based pricing architecture, merchant messaging, enablement, and adoption
+
 ## Profile
 
 - Email: [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu)
