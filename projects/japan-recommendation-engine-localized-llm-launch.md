@@ -1,56 +1,28 @@
-# Japan Recommendation Engine — Localized LLM Launch
+# Japan Recommendation Engine - Localized LLM Launch
 
-> **Portfolio lens:** International AI launch strategy, localized value propositions, market readiness, and adoption risk.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public AI Product Marketing resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) is used only to place this case within the Rakuten role dated June-December 2023.
 
-## Executive snapshot
+## Evidence-grounded premise
 
-Converted a global-model rollout into a genuinely local launch after shadow testing exposed failures in respectful language, Kanji tokenization, cultural relevance, latency, and data residency. The launch preserved one global platform while adding a reusable regional adaptation layer.
+METI's 2022 AI governance guidance emphasizes risk-based implementation, accountability, monitoring, and ongoing improvement. NIST's 2023 AI RMF similarly organizes trustworthy AI work around govern, map, measure, and manage. Applied to a Japanese recommendation launch, these sources make native-language quality, local context, data governance, and controlled rollout first-class launch criteria.
 
-## Resume-ready impact
+## Case approach
 
-- Secured a six-week launch delay after customer-quality, latency, and commercial evidence showed the global model was not ready for Japan.
-- Formed an embedded central-and-local team to build a Japanese language adapter, optimized tokenizer, local availability signals, and regional data flow.
-- Improved downstream commercial impact by 14% and reduced inference latency by 20%, with an automated rollback trigger at 0.5% negative customer experience.
+- Give native-language reviewers decision authority over quality criteria and failure taxonomies.
+- Separate shared platform capabilities from local language, evaluation, availability, and governance layers.
+- Run offline evaluation, human review, shadow traffic, controlled ramp, and defined rollback gates.
+- Position localization as product quality and trust, not translation alone.
 
-## Interview story
+## Evidence-based success measures
 
-### Situation
+Use native-review quality, harmful or misleading recommendation rate, latency, local availability accuracy, escalation rate, and rollback frequency. These are proposed measures, not reported historical results.
 
-The central team wanted global feature parity before a major gifting season, while local experts saw poor Keigo, fragmented Kanji, weak recommendation relevance, and roughly three-times-higher latency.
+## External source map
 
-### Task
-
-Protect customer trust and seasonal revenue without creating an entirely separate product or breaking the global platform model.
-
-### Actions
-
-- Replaced opinion-based debate with explicit quality, latency, commercial, and scalability criteria.
-- Embedded Tokyo engineers with the central platform group and gave native-language reviewers authority over launch quality.
-- Separated shared infrastructure from a local language, evaluation, availability, and compliance layer.
-- Ran native review, shadow mode, purchase comparison, controlled ramp, and automated rollback before full launch.
-
-### Results
-
-- Downstream commercial impact improved 14%.
-- Inference latency fell 20%.
-- The rollout used a 0.5% negative-customer-experience rollback threshold.
-- The architecture became a repeatable pattern for other international markets.
-
-## Decisions and trade-offs
-
-- Delay launch rather than copy a global experience that failed local quality gates.
-- Standardize platform infrastructure while localizing customer behavior and evaluation.
-- Keep restricted regional data in market, accepting a two-week adjustment when sovereignty requirements surfaced.
-
-## Leadership signal
-
-Resolved central-versus-local conflict with evidence, embedded market expertise into the product team, and turned localization from translation work into a launch-readiness discipline.
-
-## Skills and keywords
-
-international GTM · AI localization · launch readiness · Japan market · native-language evaluation · product positioning · data residency · shadow launch · rollback guardrails · commercial adoption
-
-## Source
-
-[Original Notion project page](https://app.notion.com/p/15bf9e255f21803c9f2ad8f0ffbce972)
-
+| Source | Contribution |
+|---|---|
+| [METI - Governance Guidelines for Implementation of AI Principles v1.1 (2022)](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/20220128_report.html) | Primary Japan-specific AI governance foundation. |
+| [NIST - AI Risk Management Framework 1.0 (2023)](https://doi.org/10.6028/NIST.AI.100-1) | Primary lifecycle framework for trustworthy AI risk management. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) | Work dates only. |

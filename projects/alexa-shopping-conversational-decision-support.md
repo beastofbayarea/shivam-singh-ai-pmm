@@ -1,56 +1,28 @@
-# Alexa Shopping — Conversational Decision Support
+# Alexa Shopping - Conversational Decision Support
 
-> **Portfolio lens:** AI value proposition, customer insight, adoption, trust, and commercial positioning.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public AI Product Marketing resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) is used only to place this case within the AWS role dated July 2024-present.
 
-## Executive snapshot
+## Evidence-grounded premise
 
-Repositioned a curiosity-driven shopping assistant around decision support and purchase confidence. The product narrowed large catalogs to credible choices, explained trade-offs, grounded claims in live commerce data, and kept customer control over transactional actions.
+Retrieval-augmented generation was introduced to combine model reasoning with an updateable external knowledge store and improve factual language on knowledge-intensive tasks. NIST's 2024 GenAI Profile requires risks to be governed, mapped, measured, and managed across the lifecycle. Together, these sources support a shopping proposition centered on current evidence, bounded recommendations, and customer control rather than unconstrained conversation.
 
-## Resume-ready impact
+## Case approach
 
-- Analyzed roughly 100,000 interactions and identified a 40% drop-off when users left conversation for traditional search and filters.
-- Repositioned the assistant around curated shortlists, explicit trade-offs, live retrieval, contextual memory, and review-before-purchase controls.
-- Reached 25% adoption, increased session depth 15%, reduced hallucination to 2.8%, and raised innovation favorability from 55% to 70%.
+- Retrieve current catalog, price, availability, and review evidence before generating comparisons.
+- Constrain the assistant to shortlists and explicit trade-offs tied to retrieved evidence.
+- Evaluate factuality, retrieval relevance, refusal behavior, and customer confirmation before transactional steps.
+- Position the value around decision confidence and time saved, not novelty or conversation volume.
 
-## Interview story
+## Evidence-based success measures
 
-### Situation
+Use citation coverage, unsupported-claim rate, task completion, shortlist usefulness, confirmation rate, and error recovery. These are proposed measures, not reported historical results.
 
-The assistant produced interesting conversations but weak buying outcomes. Unverified specifications, a fragmented handoff to search, and a clinical interface limited trust and conversion value.
+## External source map
 
-### Task
-
-Define a buyer-centered proposition that made the AI useful in a high-consideration decision while preserving factual accuracy and customer agency.
-
-### Actions
-
-- Shifted the product promise from open-ended chat to decision support with three to five credible options.
-- Used live catalog, price, inventory, and review retrieval for facts while reserving the model for reasoning and comparison.
-- Introduced task-specific prompts at moments of hesitation and selected a 15,000-user high-frequency cohort for adoption testing.
-- Connected brand-favorability gains to a GMV-linked business case to secure $5M in funding.
-
-### Results
-
-- Feature adoption reached 25%.
-- Session depth increased 15%.
-- Hallucination fell to 2.8%.
-- Innovation favorability rose 15 points, from 55% to 70%.
-
-## Decisions and trade-offs
-
-- Optimize decision quality instead of raw conversation volume.
-- Reject static model memory for fast-changing commerce facts.
-- Require customer confirmation before any transactional action.
-
-## Leadership signal
-
-Connected customer research, product design, technical grounding, brand strategy, and commercial economics into one launch narrative that leadership could fund and customers could trust.
-
-## Skills and keywords
-
-AI positioning · customer research · value proposition · conversational commerce · RAG · product adoption · trust · brand favorability · launch strategy · commercialization
-
-## Source
-
-[Original Notion project page](https://app.notion.com/p/2f1f9e255f2180ca98a2d2eac8d999c9)
-
+| Source | Contribution |
+|---|---|
+| [Lewis et al. - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)](https://arxiv.org/abs/2005.11401) | Primary technical basis for retrieval grounding, updateable knowledge, provenance, and factual generation. |
+| [NIST - Generative AI Profile (2024)](https://doi.org/10.6028/NIST.AI.600-1) | Primary risk and evaluation framework for trustworthy GenAI deployment. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-ai-pmm/blob/main/shivam-singh-ai-pmm.pdf) | Work dates only. |
