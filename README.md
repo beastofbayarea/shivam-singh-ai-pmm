@@ -18,14 +18,20 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 
 ## Project interview stories
 
-Each story adapts a portfolio project to this role narrative, with resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
+Each story adapts a portfolio project to this role narrative, with resume-ready impact, interview framing, decisions, metrics, and a link to the source page. The primary resume experience identifies the work-history anchor whose stated scope and evidence best support the story.
 
 - [Generative AI ads: compliance by construction](./projects/generative-ai-ads-compliance-by-construction.md) - policy-aware product positioning and launch design
+  - **Primary resume experience:** Amazon Web Services (AWS) - Principal AI Product Marketing and Global GTM (July 2024 - Present)
 - [Japan recommendation engine: localized LLM launch](./projects/japan-recommendation-engine-localized-llm-launch.md) - localization, adoption, and market-specific messaging
+  - **Primary resume experience:** Rakuten Group, Inc. - Product Marketing Manager, Merchant AI Adoption and Monetization (June 2023 - December 2023)
 - [Alexa Shopping: conversational decision support](./projects/alexa-shopping-conversational-decision-support.md) - customer insight translated into an AI shopping proposition
+  - **Primary resume experience:** Amazon Web Services (AWS) - Principal AI Product Marketing and Global GTM (July 2024 - Present)
 - [AR shopping: global launch and return reduction](./projects/ar-shopping-global-launch-return-reduction.md) - international launch strategy tied to customer and unit-economics outcomes
+  - **Primary resume experience:** Microsoft Corporation - Senior Product Marketing Manager, Enterprise Segmentation and Lifecycle Growth (January 2020 - August 2022)
 - [Manufacturing cloud migration: technical GTM launch](./projects/manufacturing-cloud-migration-technical-gtm-launch.md) - enterprise migration value proposition and launch readiness
+  - **Primary resume experience:** Microsoft Corporation - Senior Product Marketing Manager, Enterprise Segmentation and Lifecycle Growth (January 2020 - August 2022)
 - [Quant fund marketing: compliance rebuild](./projects/quant-fund-marketing-compliance-rebuild.md) - trust-led messaging and governed institutional marketing
+  - **Primary resume experience:** The D. E. Shaw Group - Vice President, Product Marketing and Value Realization (July 2016 - December 2019)
 
 ## Profile
 
