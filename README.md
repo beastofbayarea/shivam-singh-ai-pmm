@@ -2,6 +2,11 @@
 
 Role-targeted resume for AI product marketing, global go-to-market strategy, product adoption, monetization, and international launches.
 
+## Profile
+
+- Email: [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu)
+- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+
 ## Resume formats
 
 - [View the PDF](./shivam-singh-ai-pmm.pdf)
@@ -52,7 +57,3 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 - [Retail pricing: value proposition and commercialization](./projects/retail-pricing-value-proposition-commercialization.md) - elasticity-based pricing architecture, merchant messaging, enablement, and adoption
 
-## Profile
-
-- Email: [shiv-ai-pmm@umich.edu](mailto:shiv-ai-pmm@umich.edu)
-- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
